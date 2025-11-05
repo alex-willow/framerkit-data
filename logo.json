@@ -1,0 +1,373 @@
+{
+  "logo": [
+    {
+      "key": "logo-section-01",
+      "title": "Logo Section 01",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2001.png",
+      "url": "https://framer.com/m/Logo-Section-01-lyN7.js",
+      "type": "free",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-02",
+      "title": "Logo Section 02",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2002.png",
+      "url": "https://framer.com/m/Logo-Section-02-TcN5.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-03",
+      "title": "Logo Section 03",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2003.png",
+      "url": "https://framer.com/m/Logo-Section-03-Fwcq.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-04",
+      "title": "Logo Section 04",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2004.png",
+      "url": "https://framer.com/m/Logo-Section-04-qEDz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-05",
+      "title": "Logo Section 05",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2005.png",
+      "url": "https://framer.com/m/Logo-Section-05-xtvn.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-06",
+      "title": "Logo Section 06",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2006.png",
+      "url": "https://framer.com/m/Logo-Section-06-DVJG.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-07",
+      "title": "Logo Section 07",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2007.png",
+      "url": "https://framer.com/m/Logo-Section-07-vsUq.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-08",
+      "title": "Logo Section 08",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2008.png",
+      "url": "https://framer.com/m/Logo-Section-08-zKsa.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-09",
+      "title": "Logo Section 09",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2009.png",
+      "url": "https://framer.com/m/Logo-Section-09-Q6qw.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-10",
+      "title": "Logo Section 10",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2010.png",
+      "url": "https://framer.com/m/Logo-Section-10-3VKx.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-11",
+      "title": "Logo Section 11",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2011.png",
+      "url": "https://framer.com/m/Logo-Section-11-7XFg.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-12",
+      "title": "Logo Section 12",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2012.png",
+      "url": "https://framer.com/m/Logo-Section-12-dePA.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-13",
+      "title": "Logo Section 13",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2013.png",
+      "url": "https://framer.com/m/Logo-Section-13-3nGI.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-14",
+      "title": "Logo Section 14",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2014.png",
+      "url": "https://framer.com/m/Logo-Section-14-VxeR.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-15",
+      "title": "Logo Section 15",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2015.png",
+      "url": "https://framer.com/m/Logo-Section-15-tmJS.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-16",
+      "title": "Logo Section 16",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2016.png",
+      "url": "https://framer.com/m/Logo-Section-16-7Sph.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-17",
+      "title": "Logo Section 17",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2017.png",
+      "url": "https://framer.com/m/Logo-Section-17-mn3Y.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-18",
+      "title": "Logo Section 18",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2018.png",
+      "url": "https://framer.com/m/Logo-Section-18-AZfJ.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-19",
+      "title": "Logo Section 19",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2019.png",
+      "url": "https://framer.com/m/Logo-Section-19-t4LF.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-20",
+      "title": "Logo Section 20",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2020.png",
+      "url": "https://framer.com/m/Logo-Section-20-2fev.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-21",
+      "title": "Logo Section 21",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2021.png",
+      "url": "https://framer.com/m/Logo-Section-21-OXf3.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-22",
+      "title": "Logo Section 22",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2022.png",
+      "url": "https://framer.com/m/Logo-Section-22-MCrC.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-23",
+      "title": "Logo Section 23",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2023.png",
+      "url": "https://framer.com/m/Logo-Section-23-qMKR.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+
+    {
+      "key": "logo-section-01-dark",
+      "title": "Logo Section 01",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2001%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-01-Dark-vii7.js",
+      "type": "free",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-02-dark",
+      "title": "Logo Section 02",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2002%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-02-Dark-XrMX.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-03-dark",
+      "title": "Logo Section 03",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2003%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-03-Dark-XnXv.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-04-dark",
+      "title": "Logo Section 04",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2004%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-04-Dark-SRfe.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-05-dark",
+      "title": "Logo Section 05",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2005%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-05-Dark-Dm3h.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-06-dark",
+      "title": "Logo Section 06",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2006%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-06-Dark-C24s.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-07-dark",
+      "title": "Logo Section 07",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2007%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-07-Dark-JP4R.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-08-dark",
+      "title": "Logo Section 08",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2008%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-08-Dark-2iCp.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-09-dark",
+      "title": "Logo Section 09",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2009%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-09-Dark-eHt6.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-10-dark",
+      "title": "Logo Section 10",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2010%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-10-Dark-Hf7M.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-11-dark",
+      "title": "Logo Section 11",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2011%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-11-Dark-jvEU.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-12-dark",
+      "title": "Logo Section 12",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2012%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-12-Dark-LjSp.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-13-dark",
+      "title": "Logo Section 13",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2013%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-13-Dark-GaP4.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-14-dark",
+      "title": "Logo Section 14",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2014%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-14-Dark-lVQQ.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-15-dark",
+      "title": "Logo Section 15",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2015%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-15-Dark-i995.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-16-dark",
+      "title": "Logo Section 16",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2016%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-16-Dark-HIZx.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-17-dark",
+      "title": "Logo Section 17",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2017%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-17-Dark-WhTj.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-18-dark",
+      "title": "Logo Section 18",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2018%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-18-Dark-XK6d.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-19-dark",
+      "title": "Logo Section 19",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2019%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-19-Dark-k1Bh.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-20-dark",
+      "title": "Logo Section 20",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2020%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-20-Dark-Wqgf.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-21-dark",
+      "title": "Logo Section 21",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2021%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-21-Dark-CCrB.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-22-dark",
+      "title": "Logo Section 22",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2022%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-22-Dark-4e0A.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "logo-section-23-dark",
+      "title": "Logo Section 23",
+      "image": "https://storage.googleapis.com/framerkit/Logo%20Section%2023%20Dark.png",
+      "url": "https://framer.com/m/Logo-Section-23-Dark-fuXA.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    }
+  ]
+}
