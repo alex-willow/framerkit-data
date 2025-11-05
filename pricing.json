@@ -1,0 +1,325 @@
+{
+  "pricing": [
+    {
+      "key": "pricing-section-01",
+      "title": "Pricing Section 01",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2001.png",
+      "url": "https://framer.com/m/Pricing-Section-01-KTXu.js",
+      "type": "free",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-02",
+      "title": "Pricing Section 02",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2002.png",
+      "url": "https://framer.com/m/Pricing-Section-02-qagY.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-03",
+      "title": "Pricing Section 03",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2003.png",
+      "url": "https://framer.com/m/Pricing-Section-03-VcPL.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-04",
+      "title": "Pricing Section 04",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2004.png",
+      "url": "https://framer.com/m/Pricing-Section-04-ZaFZ.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-05",
+      "title": "Pricing Section 05",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2005.png",
+      "url": "https://framer.com/m/Pricing-Section-05-dMhr.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-06",
+      "title": "Pricing Section 06",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2006.png",
+      "url": "https://framer.com/m/Pricing-Section-06-Hk8L.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-07",
+      "title": "Pricing Section 07",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2007.png",
+      "url": "https://framer.com/m/Pricing-Section-07-QQOj.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-08",
+      "title": "Pricing Section 08",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2008.png",
+      "url": "https://framer.com/m/Pricing-Section-08-jtTj.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-09",
+      "title": "Pricing Section 09",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2009.png",
+      "url": "https://framer.com/m/Pricing-Section-09-Ca9K.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-10",
+      "title": "Pricing Section 10",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2010.png",
+      "url": "https://framer.com/m/Pricing-Section-10-pK7N.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-11",
+      "title": "Pricing Section 11",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2011.png",
+      "url": "https://framer.com/m/Pricing-Section-11-Z2Fz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-12",
+      "title": "Pricing Section 12",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2012.png",
+      "url": "https://framer.com/m/Pricing-Section-12-dmlq.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-13",
+      "title": "Pricing Section 13",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2013.png",
+      "url": "https://framer.com/m/Pricing-Section-13-QAYG.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-14",
+      "title": "Pricing Section 14",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2014.png",
+      "url": "https://framer.com/m/Pricing-Section-14-FuHz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-15",
+      "title": "Pricing Section 15",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2015.png",
+      "url": "https://framer.com/m/Pricing-Section-15-uzso.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-16",
+      "title": "Pricing Section 16",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2016.png",
+      "url": "https://framer.com/m/Pricing-Section-16-BAsv.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-17",
+      "title": "Pricing Section 17",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2017.png",
+      "url": "https://framer.com/m/Pricing-Section-17-JpPA.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-18",
+      "title": "Pricing Section 18",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2018.png",
+      "url": "https://framer.com/m/Pricing-Section-18-LHDz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-19",
+      "title": "Pricing Section 19",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2019.png",
+      "url": "https://framer.com/m/Pricing-Section-19-cg7O.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-20",
+      "title": "Pricing Section 20",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2020.png",
+      "url": "https://framer.com/m/Pricing-Section-20-pO7Q.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+
+    {
+      "key": "pricing-section-01-dark",
+      "title": "Pricing Section 01",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2001%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-01-Dark-pSQS.js",
+      "type": "free",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-02-dark",
+      "title": "Pricing Section 02",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2002%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-02-Dark-vwV8.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-03-dark",
+      "title": "Pricing Section 03",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2003%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-03-Dark-lnNW.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-04-dark",
+      "title": "Pricing Section 04",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2004%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-04-Dark-mQXm.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-05-dark",
+      "title": "Pricing Section 05",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2005%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-05-Dark-Np2B.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-06-dark",
+      "title": "Pricing Section 06",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2006%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-06-Dark-OH1B.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-07-dark",
+      "title": "Pricing Section 07",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2007%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-07-Dark-QMnz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-08-dark",
+      "title": "Pricing Section 08",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2008%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-08-Dark-frsz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-09-dark",
+      "title": "Pricing Section 09",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2009%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-09-Dark-gZqt.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-10-dark",
+      "title": "Pricing Section 10",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2010%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-10-Dark-yQyw.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-11-dark",
+      "title": "Pricing Section 11",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2011%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-11-Dark-Y9p7.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-12-dark",
+      "title": "Pricing Section 12",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2012%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-12-Dark-Tnzb.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-13-dark",
+      "title": "Pricing Section 13",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2013%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-13-Dark-s3zq.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-14-dark",
+      "title": "Pricing Section 14",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2014%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-14-Dark-Ytjc.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-15-dark",
+      "title": "Pricing Section 15",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2015%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-15-Dark-AEwO.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-16-dark",
+      "title": "Pricing Section 16",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2016%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-16-Dark-bb2F.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-17-dark",
+      "title": "Pricing Section 17",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2017%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-17-Dark-9GzZ.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-18-dark",
+      "title": "Pricing Section 18",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2018%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-18-Dark-oAyd.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-19-dark",
+      "title": "Pricing Section 19",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2019%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-19-Dark-3USd.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "pricing-section-20-dark",
+      "title": "Pricing Section 20",
+      "image": "https://storage.googleapis.com/framerkit/Pricing%20Section%2020%20Dark.png",
+      "url": "https://framer.com/m/Pricing-Section-20-Dark-JPmM.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    }
+  ]
+}
