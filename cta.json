@@ -1,0 +1,245 @@
+{
+  "cta": [
+    {
+      "key": "cta-section-01",
+      "title": "CTA Section 01",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2001.png",
+      "url": "https://framer.com/m/CTA-Section-01-xhf5.js",
+      "type": "free",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-02",
+      "title": "CTA Section 02",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2002.png",
+      "url": "https://framer.com/m/CTA-Section-02-cPuK.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-03",
+      "title": "CTA Section 03",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2003.png",
+      "url": "https://framer.com/m/CTA-Section-03-bswL.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-04",
+      "title": "CTA Section 04",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2004.png",
+      "url": "https://framer.com/m/CTA-Section-04-Hz88.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-05",
+      "title": "CTA Section 05",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2005.png",
+      "url": "https://framer.com/m/CTA-Section-05-gjv6.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-06",
+      "title": "CTA Section 06",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2006.png",
+      "url": "https://framer.com/m/CTA-Section-06-TqLF.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-07",
+      "title": "CTA Section 07",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2007.png",
+      "url": "https://framer.com/m/CTA-Section-07-dEjt.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-08",
+      "title": "CTA Section 08",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2008.png",
+      "url": "https://framer.com/m/CTA-Section-08-I6nu.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-09",
+      "title": "CTA Section 09",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2009.png",
+      "url": "https://framer.com/m/CTA-Section-09-SGzq.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-10",
+      "title": "CTA Section 10",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2010.png",
+      "url": "https://framer.com/m/CTA-Section-10-nmzw.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-11",
+      "title": "CTA Section 11",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2011.png",
+      "url": "https://framer.com/m/CTA-Section-11-LTV1.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-12",
+      "title": "CTA Section 12",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2012.png",
+      "url": "https://framer.com/m/CTA-Section-12-0i5s.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-13",
+      "title": "CTA Section 13",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2013.png",
+      "url": "https://framer.com/m/CTA-Section-13-NrOI.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-14",
+      "title": "CTA Section 14",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2014.png",
+      "url": "https://framer.com/m/CTA-Section-14-Ir3i.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-15",
+      "title": "CTA Section 15",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2015.png",
+      "url": "https://framer.com/m/CTA-Section-15-RFAF.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+
+    {
+      "key": "cta-section-01-dark",
+      "title": "CTA Section 01",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2001%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-01-Dark-inUo.js",
+      "type": "free",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-02-dark",
+      "title": "CTA Section 02",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2002%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-02-Dark-CesW.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-03-dark",
+      "title": "CTA Section 03",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2003%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-03-Dark-sPZH.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-04-dark",
+      "title": "CTA Section 04",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2004%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-04-Dark-OZcJ.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-05-dark",
+      "title": "CTA Section 05",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2005%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-05-Dark-1fWY.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-06-dark",
+      "title": "CTA Section 06",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2006%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-06-Dark-NOli.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-07-dark",
+      "title": "CTA Section 07",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2007%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-07-Dark-TUmw.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-08-dark",
+      "title": "CTA Section 08",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2008%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-08-Dark-Aslu.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-09-dark",
+      "title": "CTA Section 09",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2009%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-09-Dark-o5GJ.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-10-dark",
+      "title": "CTA Section 10",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2010%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-10-Dark-fG24.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-11-dark",
+      "title": "CTA Section 11",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2011%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-11-Dark-AcnC.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-12-dark",
+      "title": "CTA Section 12",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2012%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-12-Dark-tAsY.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-13-dark",
+      "title": "CTA Section 13",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2013%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-13-Dark-kVtA.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-14-dark",
+      "title": "CTA Section 14",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2014%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-14-Dark-1mLY.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "cta-section-15-dark",
+      "title": "CTA Section 15",
+      "image": "https://storage.googleapis.com/framerkit/CTA%20Section%2015%20Dark.png",
+      "url": "https://framer.com/m/CTA-Section-15-Dark-acGk.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    }
+  ]
+}
