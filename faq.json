@@ -1,0 +1,341 @@
+{
+  "faq": [
+    {
+      "key": "faq-section-01",
+      "title": "FAQ Section 01",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2001.png",
+      "url": "https://framer.com/m/FAQ-Section-01-B5nk.js",
+      "type": "free",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-02",
+      "title": "FAQ Section 02",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2002.png",
+      "url": "https://framer.com/m/FAQ-Section-02-qYRz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-03",
+      "title": "FAQ Section 03",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2003.png",
+      "url": "https://framer.com/m/FAQ-Section-03-V8nW.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-04",
+      "title": "FAQ Section 04",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2004.png",
+      "url": "https://framer.com/m/FAQ-Section-04-JENp.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-05",
+      "title": "FAQ Section 05",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2005.png",
+      "url": "https://framer.com/m/FAQ-Section-05-Ku4T.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-06",
+      "title": "FAQ Section 06",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2006.png",
+      "url": "https://framer.com/m/FAQ-Section-06-6VcW.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-07",
+      "title": "FAQ Section 07",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2007.png",
+      "url": "https://framer.com/m/FAQ-Section-07-SfIx.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-08",
+      "title": "FAQ Section 08",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2008.png",
+      "url": "https://framer.com/m/FAQ-Section-08-QGWC.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-09",
+      "title": "FAQ Section 09",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2009.png",
+      "url": "https://framer.com/m/FAQ-Section-09-3WJq.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-10",
+      "title": "FAQ Section 10",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2010.png",
+      "url": "https://framer.com/m/FAQ-Section-10-uQYL.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-11",
+      "title": "FAQ Section 11",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2011.png",
+      "url": "https://framer.com/m/FAQ-Section-11-TPPw.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-12",
+      "title": "FAQ Section 12",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2012.png",
+      "url": "https://framer.com/m/FAQ-Section-12-PO7x.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-13",
+      "title": "FAQ Section 13",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2013.png",
+      "url": "https://framer.com/m/FAQ-Section-13-vLpu.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-14",
+      "title": "FAQ Section 14",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2014.png",
+      "url": "https://framer.com/m/FAQ-Section-14-iSoH.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-15",
+      "title": "FAQ Section 15",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2015.png",
+      "url": "https://framer.com/m/FAQ-Section-15-P9mZ.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-16",
+      "title": "FAQ Section 16",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2016.png",
+      "url": "https://framer.com/m/FAQ-Section-16-gmfL.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-17",
+      "title": "FAQ Section 17",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2017.png",
+      "url": "https://framer.com/m/FAQ-Section-17-A0Tn.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-18",
+      "title": "FAQ Section 18",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2018.png",
+      "url": "https://framer.com/m/FAQ-Section-18-VX2h.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-19",
+      "title": "FAQ Section 19",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2019.png",
+      "url": "https://framer.com/m/FAQ-Section-19-hgg6.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-20",
+      "title": "FAQ Section 20",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2020.png",
+      "url": "https://framer.com/m/FAQ-Section-20-vAfg.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-21",
+      "title": "FAQ Section 21",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2021.png",
+      "url": "https://framer.com/m/FAQ-Section-21-fKeH.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+
+    {
+      "key": "faq-section-01-dark",
+      "title": "FAQ Section 01",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2001%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-01-Dark-RFzM.js",
+      "type": "free",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-02-dark",
+      "title": "FAQ Section 02",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2002%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-02-Dark-PfMp.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-03-dark",
+      "title": "FAQ Section 03",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2003%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-03-Dark-F4QU.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-04-dark",
+      "title": "FAQ Section 04",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2004%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-04-Dark-yJMV.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-05-dark",
+      "title": "FAQ Section 05",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2005%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-05-Dark-Zzx0.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-06-dark",
+      "title": "FAQ Section 06",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2006%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-06-Dark-5CAC.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-07-dark",
+      "title": "FAQ Section 07",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2007%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-07-Dark-UnrE.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-08-dark",
+      "title": "FAQ Section 08",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2008%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-08-Dark-gv0x.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-09-dark",
+      "title": "FAQ Section 09",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2009%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-09-Dark-00kz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-10-dark",
+      "title": "FAQ Section 10",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2010%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-10-Dark-N0Qt.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-11-dark",
+      "title": "FAQ Section 11",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2011%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-11-Dark-QW7M.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-12-dark",
+      "title": "FAQ Section 12",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2012%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-12-Dark-sFCb.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-13-dark",
+      "title": "FAQ Section 13",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2013%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-13-Dark-XjEz.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-14-dark",
+      "title": "FAQ Section 14",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2014%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-14-Dark-faWH.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-15-dark",
+      "title": "FAQ Section 15",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2015%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-15-Dark-o5qH.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-16-dark",
+      "title": "FAQ Section 16",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2016%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-16-Dark-R6EL.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-17-dark",
+      "title": "FAQ Section 17",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2017%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-17-Dark-jYnL.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-18-dark",
+      "title": "FAQ Section 18",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2018%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-18-Dark-t2QO.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-19-dark",
+      "title": "FAQ Section 19",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2019%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-19-Dark-BUuN.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-20-dark",
+      "title": "FAQ Section 20",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2020%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-20-Dark-fzxG.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    },
+    {
+      "key": "faq-section-21-dark",
+      "title": "FAQ Section 21",
+      "image": "https://storage.googleapis.com/framerkit/FAQ%20Section%2021%20Dark.png",
+      "url": "https://framer.com/m/FAQ-Section-21-Dark-Gw33.js",
+      "type": "paid",
+      "dragType": "detachedComponentLayers"
+    }
+  ]
+}
