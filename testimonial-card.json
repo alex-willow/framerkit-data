@@ -1,6 +1,13 @@
 {
-  "TestimonialCard": [
-    
+  "testimonialCard": [
+    {
+      "key": "Testimonial-Card-01",
+      "title": "Testimonial Card 01",
+      "image": "https://storage.googleapis.com/framerkit/Testimonial%20Card%2001.png",
+      "url": "https://framer.com/m/Testimonial-ard-01-BBgA.js",
+      "type": "paid",
+      "dragType": "componentInstance"
+    },
     {
       "key": "Testimonial-Card-02",
       "title": "Testimonial Card 02",
