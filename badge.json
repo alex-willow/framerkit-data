@@ -75,4 +75,27 @@
     },
     {
       "key": "Badge-04-dark",
-      "title
+      "title": "Badge 04",
+      "image": "https://storage.googleapis.com/framerkit/Badge%2004%20Dark.png",
+      "url": "https://framer.com/m/Badge-04-Dark-udH5.js",
+      "type": "paid",
+      "dragType": "componentInstance"
+    },
+    {
+      "key": "Badge-05-dark",
+      "title": "Badge 05",
+      "image": "https://storage.googleapis.com/framerkit/Badge%2005%20Dark.png",
+      "url": "https://framer.com/m/Badge-05-Dark-5Ojq.js",
+      "type": "paid",
+      "dragType": "componentInstance"
+    },
+    {
+      "key": "Badge-06-dark",
+      "title": "Badge 06",
+      "image": "https://storage.googleapis.com/framerkit/Badge%2006%20Dark.png",
+      "url": "https://framer.com/m/Badge-06-Dark-rOUd.js",
+      "type": "paid",
+      "dragType": "componentInstance"
+    }
+  ]
+}
