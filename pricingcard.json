@@ -33,7 +33,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-05",
+      "key": "Pricingcard-05",
       "title": "Pricing Card 05",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2005.png",
       "url": "https://framer.com/m/PricingCard-05-lwNm.js",
@@ -41,7 +41,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-06",
+      "key": "Pricingcard-06",
       "title": "Pricing Card 06",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2006.png",
       "url": "https://framer.com/m/PricingCard-06-rnWg.js",
@@ -49,7 +49,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-07",
+      "key": "Pricingcard-07",
       "title": "Pricing Card 07",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2007.png",
       "url": "https://framer.com/m/PricingCard-07-b6JN.js",
@@ -57,7 +57,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-08",
+      "key": "Pricingcard-08",
       "title": "Pricing Card 08",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2008.png",
       "url": "https://framer.com/m/PricingCard-08-Kjcg.js",
@@ -65,7 +65,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-09",
+      "key": "Pricingcard-09",
       "title": "Pricing Card 09",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2009.png",
       "url": "https://framer.com/m/PricingCard-09-mNtz.js",
@@ -73,7 +73,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-10",
+      "key": "Pricingcard-10",
       "title": "Pricing Card 10",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2010.png",
       "url": "https://framer.com/m/PricingCard-10-hW5m.js",
@@ -81,7 +81,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-11",
+      "key": "Pricingcard-11",
       "title": "Pricing Card 11",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2011.png",
       "url": "https://framer.com/m/PricingCard-11-mLiG.js",
@@ -89,7 +89,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-12",
+      "key": "Pricingcard-12",
       "title": "Pricing Card 12",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2012.png",
       "url": "https://framer.com/m/PricingCard-12-pJVH.js",
@@ -98,7 +98,7 @@
     },
 
     {
-      "key": "PricingCard-01-Dark",
+      "key": "Pricingcard-01-Dark",
       "title": "Pricing Card 01",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2001%20Dark.png",
       "url": "https://framer.com/m/PricingCard-01-Dark-9Zgt.js",
@@ -106,7 +106,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-02-Dark",
+      "key": "Pricingcard-02-Dark",
       "title": "Pricing Card 02",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2002%20Dark.png",
       "url": "https://framer.com/m/PricingCard-02-Dark-fioK.js",
@@ -114,7 +114,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-03-Dark",
+      "key": "Pricingcard-03-Dark",
       "title": "Pricing Card 03",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2003%20Dark.png",
       "url": "https://framer.com/m/PricingCard-03-Dark-qGTG.js",
@@ -122,7 +122,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-04-Dark",
+      "key": "Pricingcard-04-Dark",
       "title": "Pricing Card 04",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2004%20Dark.png",
       "url": "https://framer.com/m/PricingCard-04-Dark-aOo4.js",
@@ -130,7 +130,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-05-Dark",
+      "key": "Pricingcard-05-Dark",
       "title": "Pricing Card 05",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2005%20Dark.png",
       "url": "https://framer.com/m/PricingCard-05-Dark-RCQJ.js",
@@ -138,7 +138,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-06-Dark",
+      "key": "Pricingcard-06-Dark",
       "title": "Pricing Card 06",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2006%20Dark.png",
       "url": "https://framer.com/m/PricingCard-06-Dark-l6Mi.js",
@@ -146,7 +146,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-07-Dark",
+      "key": "Pricingcard-07-Dark",
       "title": "Pricing Card 07",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2007%20Dark.png",
       "url": "https://framer.com/m/PricingCard-07-Dark-3YoY.js",
@@ -154,7 +154,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-08-Dark",
+      "key": "Pricingcard-08-Dark",
       "title": "Pricing Card 08",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2008%20Dark.png",
       "url": "https://framer.com/m/PricingCard-08-Dark-uC7P.js",
@@ -162,7 +162,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-09-Dark",
+      "key": "Pricingcard-09-Dark",
       "title": "Pricing Card 09",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2009%20Dark.png",
       "url": "https://framer.com/m/PricingCard-09-Dark-hRJX.js",
@@ -170,7 +170,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-10-Dark",
+      "key": "Pricingcard-10-Dark",
       "title": "Pricing Card 10",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2010%20Dark.png",
       "url": "https://framer.com/m/PricingCard-10-Dark-D2aR.js",
@@ -178,7 +178,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-11-Dark",
+      "key": "Pricingcard-11-Dark",
       "title": "Pricing Card 11",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2011%20Dark.png",
       "url": "https://framer.com/m/PricingCard-11-Dark-welM.js",
@@ -186,7 +186,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-12-Dark",
+      "key": "Pricingcard-12-Dark",
       "title": "Pricing Card 12",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2012%20Dark.png",
       "url": "https://framer.com/m/PricingCard-12-Dark-RrON.js",
