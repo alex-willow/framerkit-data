@@ -1,7 +1,7 @@
 {
   "pricingCard": [
     {
-      "key": "PricingCard-01",
+      "key": "Pricingcard-01",
       "title": "Pricing Card 01",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2001.png",
       "url": "https://framer.com/m/PricingCard-01-ejCJ.js",
@@ -9,7 +9,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-02",
+      "key": "Pricingcard-02",
       "title": "Pricing Card 02",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2002.png",
       "url": "https://framer.com/m/PricingCard-02-wQkq.js",
@@ -17,7 +17,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-03",
+      "key": "Pricingcard-03",
       "title": "Pricing Card 03",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2003.png",
       "url": "https://framer.com/m/PricingCard-03-GsVr.js",
@@ -25,7 +25,7 @@
       "dragType": "componentInstance"
     },
     {
-      "key": "PricingCard-04",
+      "key": "Pricingcard-04",
       "title": "Pricing Card 04",
       "image": "https://storage.googleapis.com/framerkit/Pricing%20Card%2004.png",
       "url": "https://framer.com/m/PricingCard-04-DBas.js",
