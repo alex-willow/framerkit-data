@@ -30,7 +30,11 @@
       "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2003.png",
       "url": "https://framer.com/m/Hero-Section-03-s9i1.js",
       "type": "paid",
-      "dragType": "detachedComponentLayers"
+      "dragType": "detachedComponentLayers",
+         "wireframe": {
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2003%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-03-Wireframe-rLB1.js"
+      }
     },
     {
       "key": "hero-section-04",
