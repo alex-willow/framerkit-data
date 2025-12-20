@@ -31,7 +31,7 @@
       "url": "https://framer.com/m/Hero-Section-03-s9i1.js",
       "type": "paid",
       "dragType": "detachedComponentLayers",
-         "wireframe": {
+        "wireframe": {
         "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2003%20Wireframe.png",
         "url": "https://framer.com/m/Hero-Section-03-Wireframe-rLB1.js"
       }
@@ -42,7 +42,11 @@
       "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2004.png",
       "url": "https://framer.com/m/Hero-Section-04-CYMN.js",
       "type": "paid",
-      "dragType": "detachedComponentLayers"
+      "dragType": "detachedComponentLayers",
+       "wireframe": {
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2004%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-04-Wireframe-nYxD.js"
+      }
     },
     {
       "key": "hero-section-05",
@@ -50,7 +54,11 @@
       "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2005.png",
       "url": "https://framer.com/m/Hero-Section-05-EZ0Q.js",
       "type": "paid",
-      "dragType": "detachedComponentLayers"
+      "dragType": "detachedComponentLayers",
+       "wireframe": {
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2005%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-05-Wireframe-p3qD.js"
+      }
     },
     {
       "key": "hero-section-06",
@@ -58,7 +66,11 @@
       "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2006.png",
       "url": "https://framer.com/m/Hero-Section-06-sdFI.js",
       "type": "paid",
-      "dragType": "detachedComponentLayers"
+      "dragType": "detachedComponentLayers",
+         "wireframe": {
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2006%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-06-Wireframe-06xo.js"
+      }
     },
     {
       "key": "hero-section-07",
@@ -66,7 +78,11 @@
       "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2007.png",
       "url": "https://framer.com/m/Hero-Section-07-0VRv.js",
       "type": "paid",
-      "dragType": "detachedComponentLayers"
+      "dragType": "detachedComponentLayers",
+         "wireframe": {
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2007%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-07-Wireframe-Wcvd.js"
+      }
     },
     {
       "key": "hero-section-08",
@@ -74,7 +90,11 @@
       "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2008.png",
       "url": "https://framer.com/m/Hero-Section-08-ExeP.js",
       "type": "paid",
-      "dragType": "detachedComponentLayers"
+      "dragType": "detachedComponentLayers",
+      "wireframe": {
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2008%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-08-Wireframe-yNeL.js"
+      }
     },
     {
       "key": "hero-section-09",
@@ -82,7 +102,11 @@
       "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2009.png",
       "url": "https://framer.com/m/Hero-Section-09-Kye2.js",
       "type": "paid",
-      "dragType": "detachedComponentLayers"
+      "dragType": "detachedComponentLayers",
+      "wireframe": {
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2009%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-09-Wireframe-pL4t.js"
+      }
     },
     {
       "key": "hero-section-10",
@@ -91,6 +115,10 @@
       "url": "https://framer.com/m/Hero-Section-10-IEbb.js",
       "type": "paid",
       "dragType": "detachedComponentLayers"
+      "wireframe": {
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2010%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-10-Wireframe-cbyg.js"
+      }
     },
     {
       "key": "hero-section-11",
