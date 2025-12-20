@@ -8,9 +8,9 @@
       "type": "free",
       "dragType": "detachedComponentLayers",
       "wireframe": {
-      "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2001%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-01-Wireframe-Kf67.js"
-    }
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2001%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-01-Wireframe-Kf67.js"
+      }
     },
     {
       "key": "hero-section-02",
@@ -20,9 +20,9 @@
       "type": "paid",
       "dragType": "detachedComponentLayers",
       "wireframe": {
-      "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2002%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-02-Wireframe-3uAS.js"
-    }    
+        "image": "https://storage.googleapis.com/framerkit/Hero%20Section%2002%20Wireframe.png",
+        "url": "https://framer.com/m/Hero-Section-02-Wireframe-3uAS.js"
+      }
     },
     {
       "key": "hero-section-03",
