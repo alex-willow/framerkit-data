@@ -672,453 +672,677 @@
       "url": "https://framer.com/m/Feature-Section-56-Wireframe-AfDc.js"
     }
   },
-    {
-      "key": "feature-section-01-dark",
-      "title": "Feature Section 01",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2001%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-01-Dark-2UEm.js",
-      "type": "free",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-02-dark",
-      "title": "Feature Section 02",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2002%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-02-Dark-GUMC.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-03-dark",
-      "title": "Feature Section 03",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2003%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-03-Dark-FAiP.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-04-dark",
-      "title": "Feature Section 04",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2004%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-04-Dark-HG3s.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-05-dark",
-      "title": "Feature Section 05",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2005%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-05-Dark-nL9J.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-06-dark",
-      "title": "Feature Section 06",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2006%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-06-Dark-eVCy.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-07-dark",
-      "title": "Feature Section 07",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2007%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-07-Dark-uyAv.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-08-dark",
-      "title": "Feature Section 08",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2008%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-08-Dark-mPVk.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-09-dark",
-      "title": "Feature Section 09",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2009%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-09-Dark-QMHm.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-10-dark",
-      "title": "Feature Section 10",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2010%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-10-Dark-bWEE.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-11-dark",
-      "title": "Feature Section 11",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2011%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-11-Dark-yo52.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-12-dark",
-      "title": "Feature Section 12",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2012%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-12-Dark-554r.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-13-dark",
-      "title": "Feature Section 13",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2013%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-13-Dark-bpTj.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-14-dark",
-      "title": "Feature Section 14",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2014%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-14-Dark-NsgO.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-15-dark",
-      "title": "Feature Section 15",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2015%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-15-Dark-hR9W.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-16-dark",
-      "title": "Feature Section 16",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2016%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-16-Dark-N1bJ.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-17-dark",
-      "title": "Feature Section 17",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2017%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-17-Dark-9P3p.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-18-dark",
-      "title": "Feature Section 18",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2018%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-18-Dark-O6gj.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-19-dark",
-      "title": "Feature Section 19",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2019%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-19-Dark-ruuF.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-20-dark",
-      "title": "Feature Section 20",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2020%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-20-Dark-MmkC.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-21-dark",
-      "title": "Feature Section 21",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2021%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-21-Dark-3ZiO.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-22-dark",
-      "title": "Feature Section 22",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2022%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-22-Dark-Q0Me.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-23-dark",
-      "title": "Feature Section 23",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2023%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-23-Dark-uRip.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-24-dark",
-      "title": "Feature Section 24",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2024%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-24-Dark-NkCO.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-25-dark",
-      "title": "Feature Section 25",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2025%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-25-Dark-bckZ.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-26-dark",
-      "title": "Feature Section 26",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2026%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-26-Dark-BxlP.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-27-dark",
-      "title": "Feature Section 27",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2027%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-27-Dark-4xhI.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-28-dark",
-      "title": "Feature Section 28",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2028%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-28-Dark-OH0h.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-29-dark",
-      "title": "Feature Section 29",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2029%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-29-Dark-erY8.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-30-dark",
-      "title": "Feature Section 30",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2030%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-30-Dark-CCYs.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-31-dark",
-      "title": "Feature Section 31",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2031%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-31-Dark-PHm2.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-32-dark",
-      "title": "Feature Section 32",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2032%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-32-Dark-WvGr.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-33-dark",
-      "title": "Feature Section 33",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2033%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-33-Dark-77OT.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-34-dark",
-      "title": "Feature Section 34",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2034%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-34-Dark-jClT.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-35-dark",
-      "title": "Feature Section 35",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2035%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-35-Dark-Ef2D.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-36-dark",
-      "title": "Feature Section 36",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2036%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-36-Dark-wlEE.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-37-dark",
-      "title": "Feature Section 37",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2037%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-37-Dark-y53D.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-38-dark",
-      "title": "Feature Section 38",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2038%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-38-Dark-0ERV.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-39-dark",
-      "title": "Feature Section 39",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2039%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-39-Dark-ExHd.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-40-dark",
-      "title": "Feature Section 40",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2040%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-40-Dark-kPZM.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-41-dark",
-      "title": "Feature Section 41",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2041%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-41-Dark-724e.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-42-dark",
-      "title": "Feature Section 42",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2042%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-42-Dark-96or.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-43-dark",
-      "title": "Feature Section 43",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2043%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-43-Dark-4wLY.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-44-dark",
-      "title": "Feature Section 44",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2044%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-44-Dark-Z4wk.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-45-dark",
-      "title": "Feature Section 45",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2045%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-45-Dark-5LlH.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-46-dark",
-      "title": "Feature Section 46",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2046%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-46-Dark-tSyL.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-47-dark",
-      "title": "Feature Section 47",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2047%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-47-Dark-qUK7.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-48-dark",
-      "title": "Feature Section 48",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2048%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-48-Dark-hSUG.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-49-dark",
-      "title": "Feature Section 49",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2049%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-49-Dark-nJPZ.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-50-dark",
-      "title": "Feature Section 50",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2050%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-50-Dark-iBM1.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-51-dark",
-      "title": "Feature Section 51",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2051%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-51-Dark-ls7q.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-52-dark",
-      "title": "Feature Section 52",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2052%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-52-Dark-FlG6.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-53-dark",
-      "title": "Feature Section 53",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2053%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-53-Dark-w4mX.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-54-dark",
-      "title": "Feature Section 54",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2054%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-54-Dark-692h.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-55-dark",
-      "title": "Feature Section 55",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2055%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-55-Dark-dPFf.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "feature-section-56-dark",
-      "title": "Feature Section 56",
-      "image": "https://storage.googleapis.com/framerkit/Feature%20Section%2056%20Dark.png",
-      "url": "https://framer.com/m/Feature-Section-56-Dark-FdWl.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
+  {
+    "key": "feature-section-01-dark",
+    "title": "Feature Section 01",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-01-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-01-Dark-2UEm.js",
+    "type": "free",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2001%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-01-Dark-Wireframe-JPLl.js"
     }
+  },
+  {
+    "key": "feature-section-02-dark",
+    "title": "Feature Section 02",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-02-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-02-Dark-GUMC.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2002%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-02-Dark-Wireframe-aZ8a.js"
+    }
+  },
+  {
+    "key": "feature-section-03-dark",
+    "title": "Feature Section 03",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-03-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-03-Dark-FAiP.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2003%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-03-Dark-Wireframe-xG7J.js"
+    }
+  },
+  {
+    "key": "feature-section-04-dark",
+    "title": "Feature Section 04",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-04-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-04-Dark-HG3s.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2004%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-04-Dark-Wireframe-hFSS.js"
+    }
+  },
+  {
+    "key": "feature-section-05-dark",
+    "title": "Feature Section 05",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-05-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-05-Dark-nL9J.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2005%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-05-Dark-Wireframe-KnZ5.js"
+    }
+  },
+  {
+    "key": "feature-section-06-dark",
+    "title": "Feature Section 06",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-06-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-06-Dark-eVCy.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2006%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-06-Dark-Wireframe-igDI.js"
+    }
+  },
+  {
+    "key": "feature-section-07-dark",
+    "title": "Feature Section 07",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-07-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-07-Dark-uyAv.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2007%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-07-Dark-Wireframe-maD5.js"
+    }
+  },
+  {
+    "key": "feature-section-08-dark",
+    "title": "Feature Section 08",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-08-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-08-Dark-mPVk.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2008%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-08-Dark-Wireframe-F2C4.js"
+    }
+  },
+  {
+    "key": "feature-section-09-dark",
+    "title": "Feature Section 09",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-09-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-09-Dark-QMHm.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2009%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-09-Dark-Wireframe-whIh.js"
+    }
+  },
+  {
+    "key": "feature-section-10-dark",
+    "title": "Feature Section 10",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-10-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-10-Dark-bWEE.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2010%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-10-Dark-Wireframe-eYXX.js"
+    }
+  },
+  {
+    "key": "feature-section-11-dark",
+    "title": "Feature Section 11",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-11-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-11-Dark-yo52.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2011%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-11-Dark-Wireframe-bxMh.js"
+    }
+  },
+  {
+    "key": "feature-section-12-dark",
+    "title": "Feature Section 12",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-12-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-12-Dark-554r.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2012%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-12-Dark-Wireframe-hHGv.js"
+    }
+  },
+  {
+    "key": "feature-section-13-dark",
+    "title": "Feature Section 13",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-13-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-13-Dark-bpTj.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2013%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-13-Dark-Wireframe-myl5.js"
+    }
+  },
+  {
+    "key": "feature-section-14-dark",
+    "title": "Feature Section 14",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-14-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-14-Dark-NsgO.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2014%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-14-Dark-Wireframe-ngCw.js"
+    }
+  },
+  {
+    "key": "feature-section-15-dark",
+    "title": "Feature Section 15",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-15-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-15-Dark-hR9W.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2015%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-15-Dark-Wireframe-EeaF.js"
+    }
+  },
+  {
+    "key": "feature-section-16-dark",
+    "title": "Feature Section 16",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-16-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-16-Dark-N1bJ.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2016%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-16-Dark-Wireframe-ofji.js"
+    }
+  },
+  {
+    "key": "feature-section-17-dark",
+    "title": "Feature Section 17",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-17-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-17-Dark-9P3p.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2017%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-17-Dark-Wireframe-18EY.js"
+    }
+  },
+  {
+    "key": "feature-section-18-dark",
+    "title": "Feature Section 18",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-18-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-18-Dark-O6gj.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2018%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-18-Dark-Wireframe-tq9c.js"
+    }
+  },
+  {
+    "key": "feature-section-19-dark",
+    "title": "Feature Section 19",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-19-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-19-Dark-ruuF.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2019%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-19-Dark-Wireframe-h2ll.js"
+    }
+  },
+  {
+    "key": "feature-section-20-dark",
+    "title": "Feature Section 20",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-20-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-20-Dark-MmkC.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2020%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-20-Dark-Wireframe-lWER.js"
+    }
+  },
+  {
+    "key": "feature-section-21-dark",
+    "title": "Feature Section 21",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-21-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-21-Dark-3ZiO.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2021%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-21-Dark-Wireframe-NaCl.js"
+    }
+  },
+  {
+    "key": "feature-section-22-dark",
+    "title": "Feature Section 22",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-22-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-22-Dark-Q0Me.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2022%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-22-Dark-Wireframe-I2bg.js"
+    }
+  },
+  {
+    "key": "feature-section-23-dark",
+    "title": "Feature Section 23",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-23-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-23-Dark-uRip.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2023%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-23-Dark-Wireframe-xaMo.js"
+    }
+  },
+  {
+    "key": "feature-section-24-dark",
+    "title": "Feature Section 24",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-24-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-24-Dark-NkCO.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2024%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-24-Dark-Wireframe-I3UA.js"
+    }
+  },
+  {
+    "key": "feature-section-25-dark",
+    "title": "Feature Section 25",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-25-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-25-Dark-bckZ.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2025%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-25-Dark-Wireframe-4oPr.js"
+    }
+  },
+  {
+    "key": "feature-section-26-dark",
+    "title": "Feature Section 26",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-26-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-26-Dark-BxlP.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2026%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-26-Dark-Wireframe-MPwC.js"
+    }
+  },
+  {
+    "key": "feature-section-27-dark",
+    "title": "Feature Section 27",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-27-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-27-Dark-4xhI.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2027%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-27-Dark-Wireframe-2uOP.js"
+    }
+  },
+  {
+    "key": "feature-section-28-dark",
+    "title": "Feature Section 28",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-28-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-28-Dark-OH0h.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2028%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-28-Dark-Wireframe-zKIQ.js"
+    }
+  },
+  {
+    "key": "feature-section-29-dark",
+    "title": "Feature Section 29",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-29-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-29-Dark-erY8.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2029%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-29-Dark-Wireframe-Ei5M.js"
+    }
+  },
+  {
+    "key": "feature-section-30-dark",
+    "title": "Feature Section 30",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-30-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-30-Dark-CCYs.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2030%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-30-Dark-Wireframe-FfKk.js"
+    }
+  },
+  {
+    "key": "feature-section-31-dark",
+    "title": "Feature Section 31",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-31-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-31-Dark-PHm2.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2031%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-31-Dark-Wireframe-RDbC.js"
+    }
+  },
+  {
+    "key": "feature-section-32-dark",
+    "title": "Feature Section 32",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-32-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-32-Dark-WvGr.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2032%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-32-Dark-Wireframe-Qxik.js"
+    }
+  },
+  {
+    "key": "feature-section-33-dark",
+    "title": "Feature Section 33",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-33-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-33-Dark-77OT.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2033%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-33-Dark-Wireframe-i8rx.js"
+    }
+  },
+  {
+    "key": "feature-section-34-dark",
+    "title": "Feature Section 34",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-34-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-34-Dark-jClT.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2034%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-34-Dark-Wireframe-q0dt.js"
+    }
+  },
+  {
+    "key": "feature-section-35-dark",
+    "title": "Feature Section 35",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-35-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-35-Dark-Ef2D.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2035%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-35-Dark-Wireframe-KH7F.js"
+    }
+  },
+  {
+    "key": "feature-section-36-dark",
+    "title": "Feature Section 36",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-36-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-36-Dark-wlEE.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2036%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-36-Dark-Wireframe-FbdP.js"
+    }
+  },
+  {
+    "key": "feature-section-37-dark",
+    "title": "Feature Section 37",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-37-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-37-Dark-y53D.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2037%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-37-Dark-Wireframe-GTf5.js"
+    }
+  },
+  {
+    "key": "feature-section-38-dark",
+    "title": "Feature Section 38",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-38-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-38-Dark-0ERV.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2038%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-38-Dark-Wireframe-VAh7.js"
+    }
+  },
+  {
+    "key": "feature-section-39-dark",
+    "title": "Feature Section 39",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-39-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-39-Dark-ExHd.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2039%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-39-Dark-Wireframe-yBZy.js"
+    }
+  },
+  {
+    "key": "feature-section-40-dark",
+    "title": "Feature Section 40",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-40-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-40-Dark-kPZM.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2040%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-40-Dark-Wireframe-bMpF.js"
+    }
+  },
+  {
+    "key": "feature-section-41-dark",
+    "title": "Feature Section 41",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-41-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-41-Dark-724e.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2041%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-41-Dark-Wireframe-nAVD.js"
+    }
+  },
+  {
+    "key": "feature-section-42-dark",
+    "title": "Feature Section 42",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-42-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-42-Dark-96or.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2042%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-42-Dark-Wireframe-R9uq.js"
+    }
+  },
+  {
+    "key": "feature-section-43-dark",
+    "title": "Feature Section 43",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-43-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-43-Dark-4wLY.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2043%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-43-Dark-Wireframe-8OQ6.js"
+    }
+  },
+  {
+    "key": "feature-section-44-dark",
+    "title": "Feature Section 44",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-44-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-44-Dark-Z4wk.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2044%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-44-Dark-Wireframe-38pE.js"
+    }
+  },
+  {
+    "key": "feature-section-45-dark",
+    "title": "Feature Section 45",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-45-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-45-Dark-5LlH.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2045%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-45-Dark-Wireframe-X2zE.js"
+    }
+  },
+  {
+    "key": "feature-section-46-dark",
+    "title": "Feature Section 46",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-46-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-46-Dark-tSyL.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2046%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-46-Dark-Wireframe-5QoI.js"
+    }
+  },
+  {
+    "key": "feature-section-47-dark",
+    "title": "Feature Section 47",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-47-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-47-Dark-qUK7.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2047%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-47-Dark-Wireframe-Yy4F.js"
+    }
+  },
+  {
+    "key": "feature-section-48-dark",
+    "title": "Feature Section 48",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-48-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-48-Dark-hSUG.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2048%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-48-Dark-Wireframe-u801.js"
+    }
+  },
+  {
+    "key": "feature-section-49-dark",
+    "title": "Feature Section 49",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-49-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-49-Dark-nJPZ.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2049%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-49-Dark-Wireframe-oQZR.js"
+    }
+  },
+  {
+    "key": "feature-section-50-dark",
+    "title": "Feature Section 50",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-50-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-50-Dark-iBM1.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2050%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-50-Dark-Wireframe-0zel.js"
+    }
+  },
+  {
+    "key": "feature-section-51-dark",
+    "title": "Feature Section 51",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-51-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-51-Dark-ls7q.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2051%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-51-Dark-Wireframe-CIjv.js"
+    }
+  },
+  {
+    "key": "feature-section-52-dark",
+    "title": "Feature Section 52",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-52-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-52-Dark-FlG6.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2052%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-52-Dark-Wireframe-wuKS.js"
+    }
+  },
+  {
+    "key": "feature-section-53-dark",
+    "title": "Feature Section 53",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-53-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-53-Dark-w4mX.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2053%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-53-Dark-Wireframe-0Q8F.js"
+    }
+  },
+  {
+    "key": "feature-section-54-dark",
+    "title": "Feature Section 54",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-54-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-54-Dark-692h.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2054%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-54-Dark-Wireframe-Wizj.js"
+    }
+  },
+  {
+    "key": "feature-section-55-dark",
+    "title": "Feature Section 55",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-55-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-55-Dark-dPFf.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2055%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-55-Dark-Wireframe-AupF.js"
+    }
+  },
+  {
+    "key": "feature-section-56-dark",
+    "title": "Feature Section 56",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Design%20/Feature-Section-56-Dark.gif",
+    "url": "https://framer.com/m/Feature-Section-56-Dark-FdWl.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Dark/Wireframe/Feature%20Section%2056%20Dark%20Wireframe.png",
+      "url": "https://framer.com/m/Feature-Section-56-Dark-Wireframe-1Z3v.js"
+    }
+  }
   ]
 }
