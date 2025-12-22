@@ -1,118 +1,126 @@
 {
   "gallery": [
-    {
-      "key": "Gallery-01",
-      "title": "Gallery 01",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2001.png",
-      "url": "https://framer.com/m/Gallery-01-xB72.js",
-      "type": "free",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-02",
-      "title": "Gallery 02",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2002.png",
-      "url": "https://framer.com/m/Gallery-02-vHn7.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-03",
-      "title": "Gallery 03",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2003.png",
-      "url": "https://framer.com/m/Gallery-03-M49V.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-04",
-      "title": "Gallery 04",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2004.png",
-      "url": "https://framer.com/m/Gallery-04-OYv6.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-05",
-      "title": "Gallery 05",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2005.png",
-      "url": "https://framer.com/m/Gallery-05-17Xg.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-06",
-      "title": "Gallery 06",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2006.png",
-      "url": "https://framer.com/m/Gallery-06-eZ8y.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-07",
-      "title": "Gallery 07",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2007.png",
-      "url": "https://framer.com/m/Gallery-07-V3Rh.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-08",
-      "title": "Gallery 08",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2008.png",
-      "url": "https://framer.com/m/Gallery-08-5xp4.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-09",
-      "title": "Gallery 09",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2009.png",
-      "url": "https://framer.com/m/Gallery-09-ZDhA.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-10",
-      "title": "Gallery 10",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2010.png",
-      "url": "https://framer.com/m/Gallery-10-jgBQ.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-11",
-      "title": "Gallery 11",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2011.png",
-      "url": "https://framer.com/m/Gallery-11-f1Jv.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-12",
-      "title": "Gallery 12",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2012.png",
-      "url": "https://framer.com/m/Gallery-12-ptQq.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-13",
-      "title": "Gallery 13",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2013.png",
-      "url": "https://framer.com/m/Gallery-13-czZ0.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-    {
-      "key": "Gallery-14",
-      "title": "Gallery 14",
-      "image": "https://storage.googleapis.com/framerkit/Gallery%2014.png",
-      "url": "https://framer.com/m/Gallery-14-BcZ5.js",
-      "type": "paid",
-      "dragType": "detachedComponentLayers"
-    },
-
+  {
+    "key": "Gallery-01",
+    "title": "Gallery 01",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-01.gif",
+    "url": "https://framer.com/m/Gallery-01-xB72.js",
+    "type": "free",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2001%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-01-Wireframe-Z7Hy.js"
+    }
+  },
+  {
+    "key": "Gallery-02",
+    "title": "Gallery 02",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-02.gif",
+    "url": "https://framer.com/m/Gallery-02-vHn7.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2002%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-02-Wireframe-XB0H.js"
+    }
+  },
+  {
+    "key": "Gallery-03",
+    "title": "Gallery 03",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-03.gif",
+    "url": "https://framer.com/m/Gallery-03-M49V.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2003%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-03-Wireframe-3J97.js"
+    }
+  },
+  {
+    "key": "Gallery-04",
+    "title": "Gallery 04",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-04.gif",
+    "url": "https://framer.com/m/Gallery-04-OYv6.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2004%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-04-Wireframe-5stX.js"
+    }
+  },
+  {
+    "key": "Gallery-05",
+    "title": "Gallery 05",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-05.gif",
+    "url": "https://framer.com/m/Gallery-05-17Xg.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2005%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-05-Wireframe-kNHd.js"
+    }
+  },
+  {
+    "key": "Gallery-06",
+    "title": "Gallery 06",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-06.gif",
+    "url": "https://framer.com/m/Gallery-06-eZ8y.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2006%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-06-Wireframe-9j9P.js"
+    }
+  },
+  {
+    "key": "Gallery-07",
+    "title": "Gallery 07",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-07.gif",
+    "url": "https://framer.com/m/Gallery-07-V3Rh.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2007%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-07-Wireframe-V8Hp.js"
+    }
+  },
+  {
+    "key": "Gallery-08",
+    "title": "Gallery 08",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-08.gif",
+    "url": "https://framer.com/m/Gallery-08-5xp4.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2008%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-08-Wireframe-nMXX.js"
+    }
+  },
+  {
+    "key": "Gallery-09",
+    "title": "Gallery 09",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-09.gif",
+    "url": "https://framer.com/m/Gallery-09-ZDhA.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2009%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-09-Wireframe-Jswe.js"
+    }
+  },
+  {
+    "key": "Gallery-10",
+    "title": "Gallery 10",
+    "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Design%20/Gallery-10.gif",
+    "url": "https://framer.com/m/Gallery-10-jgBQ.js",
+    "type": "paid",
+    "dragType": "detachedComponentLayers",
+    "wireframe": {
+      "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Gallery/Light/Wireframe/Gallery%2010%20Wireframe.png",
+      "url": "https://framer.com/m/Gallery-10-Wireframe-az6u.js"
+    }
+  },
+     
     {
       "key": "Gallery-01-dark",
       "title": "Gallery 01",
