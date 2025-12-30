@@ -1,7 +1,10 @@
-// public/product.json
 {
-  "name": "FramerKit",
   "price": 50,
   "currency": "USD",
-  "polarUrl": "https://buy.polar.sh/polar_cl_lbbqLYLaayU8OwD7xLYNCiFvxQcw0LpKSm6kl4MLuVh"
+  "polarUrl": "https://buy.polar.sh/polar_cl_lbbqLYLaayU8OwD7xLYNCiFvxQcw0LpKSm6kl4MLuVh",
+  "demoCard": {
+    "title": "Unlock FramerKit",
+    "subtitle": "1000+ sections, components & templates",
+    "buttonText": "Get Pro for ${{price}}"
+  }
 }
