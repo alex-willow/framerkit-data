@@ -1,0 +1,7 @@
+// public/product.json
+{
+  "name": "FramerKit",
+  "price": 50,
+  "currency": "USD",
+  "polarUrl": "https://buy.polar.sh/polar_cl_lbbqLYLaayU8OwD7xLYNCiFvxQcw0LpKSm6kl4MLuVh"
+}
