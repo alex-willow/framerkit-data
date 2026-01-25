@@ -5,6 +5,12 @@
 { "name": "Desert Clay - 03", "light": "rgb(180, 150, 130)", "path": "/desert-clay-03" },
 { "name": "Desert Clay - 04", "light": "rgb(140, 110, 90)", "path": "/desert-clay-04" },
 { "name": "Desert Clay - 05", "light": "rgb(90, 70, 60)", "path": "/desert-clay-05" },
+
+{ "name": "Cyber Mint - 01", "light": "rgb(240, 252, 249)", "path": "/cyber-mint-01" },
+{ "name": "Cyber Mint - 02", "light": "rgb(200, 240, 230)", "path": "/cyber-mint-02" },
+{ "name": "Cyber Mint - 03", "light": "rgb(140, 220, 200)", "path": "/cyber-mint-03" },
+{ "name": "Cyber Mint - 04", "light": "rgb(80, 180, 160)", "path": "/cyber-mint-04" },
+{ "name": "Cyber Mint - 05", "light": "rgb(30, 120, 110)", "path": "/cyber-mint-05" },
   
 { "name": "Oceanic Cactus - 01", "light": "rgb(26, 83, 92)",  "path": "/oceanic-cactus-01" },
 { "name": "Oceanic Cactus - 02", "light": "rgb(78, 205, 196)", "path": "/oceanic-cactus-02" },
