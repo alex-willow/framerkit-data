@@ -477,51 +477,6 @@
 { "name": "Spring Green Harmony - 09", "light": "rgb(238, 239, 32)", "path": "/spring-green-harmony-09" },
 { "name": "Spring Green Harmony - 10", "light": "rgb(255, 255, 63)", "path": "/spring-green-harmony-10" },
 
-
-{ "name": "Vibrant Summer - 01", "light": "rgb(255, 89, 94)", "path": "/vibrant-summer-01" },
-{ "name": "Vibrant Summer - 02", "light": "rgb(255, 202, 58)", "path": "/vibrant-summer-02" },
-{ "name": "Vibrant Summer - 03", "light": "rgb(138, 201, 38)", "path": "/vibrant-summer-03" },
-{ "name": "Vibrant Summer - 04", "light": "rgb(25, 130, 196)", "path": "/vibrant-summer-04" },
-{ "name": "Vibrant Summer - 05", "light": "rgb(106, 76, 147)", "path": "/vibrant-summer-05" },
-
-
-{ "name": "Leafy Green Garden - 01", "light": "rgb(19, 42, 19)", "path": "/leafy-green-garden-01" },
-{ "name": "Leafy Green Garden - 02", "light": "rgb(49, 87, 44)", "path": "/leafy-green-garden-02" },
-{ "name": "Leafy Green Garden - 03", "light": "rgb(79, 119, 45)", "path": "/leafy-green-garden-03" },
-{ "name": "Leafy Green Garden - 04", "light": "rgb(144, 169, 85)", "path": "/leafy-green-garden-04" },
-{ "name": "Leafy Green Garden - 05", "light": "rgb(236, 243, 158)", "path": "/leafy-green-garden-05" },
-
-
-{ "name": "Cherry Blossom Bloom - 01", "light": "rgb(89, 13, 34)", "path": "/cherry-blossom-bloom-01" },
-{ "name": "Cherry Blossom Bloom - 02", "light": "rgb(128, 15, 47)", "path": "/cherry-blossom-bloom-02" },
-{ "name": "Cherry Blossom Bloom - 03", "light": "rgb(164, 19, 60)", "path": "/cherry-blossom-bloom-03" },
-{ "name": "Cherry Blossom Bloom - 04", "light": "rgb(201, 24, 74)", "path": "/cherry-blossom-bloom-04" },
-{ "name": "Cherry Blossom Bloom - 05", "light": "rgb(255, 77, 109)", "path": "/cherry-blossom-bloom-05" },
-{ "name": "Cherry Blossom Bloom - 06", "light": "rgb(255, 117, 143)", "path": "/cherry-blossom-bloom-06" },
-{ "name": "Cherry Blossom Bloom - 07", "light": "rgb(255, 143, 163)", "path": "/cherry-blossom-bloom-07" },
-{ "name": "Cherry Blossom Bloom - 08", "light": "rgb(255, 179, 193)", "path": "/cherry-blossom-bloom-08" },
-{ "name": "Cherry Blossom Bloom - 09", "light": "rgb(255, 204, 213)", "path": "/cherry-blossom-bloom-09" },
-{ "name": "Cherry Blossom Bloom - 10", "light": "rgb(255, 240, 243)", "path": "/cherry-blossom-bloom-10" },
-
-
-{ "name": "Purple Sunset - 01", "light": "rgb(57, 0, 153)", "path": "/purple-sunset-01" },
-{ "name": "Purple Sunset - 02", "light": "rgb(158, 0, 89)", "path": "/purple-sunset-02" },
-{ "name": "Purple Sunset - 03", "light": "rgb(255, 0, 84)", "path": "/purple-sunset-03" },
-{ "name": "Purple Sunset - 04", "light": "rgb(255, 84, 0)", "path": "/purple-sunset-04" },
-{ "name": "Purple Sunset - 05", "light": "rgb(255, 189, 0)", "path": "/purple-sunset-05" },
-
-
-{ "name": "Spring Green Harmony - 01", "light": "rgb(0, 127, 95)", "path": "/spring-green-harmony-01" },
-{ "name": "Spring Green Harmony - 02", "light": "rgb(43, 147, 72)", "path": "/spring-green-harmony-02" },
-{ "name": "Spring Green Harmony - 03", "light": "rgb(85, 166, 48)", "path": "/spring-green-harmony-03" },
-{ "name": "Spring Green Harmony - 04", "light": "rgb(128, 185, 24)", "path": "/spring-green-harmony-04" },
-{ "name": "Spring Green Harmony - 05", "light": "rgb(170, 204, 0)", "path": "/spring-green-harmony-05" },
-{ "name": "Spring Green Harmony - 06", "light": "rgb(191, 210, 0)", "path": "/spring-green-harmony-06" },
-{ "name": "Spring Green Harmony - 07", "light": "rgb(212, 215, 0)", "path": "/spring-green-harmony-07" },
-{ "name": "Spring Green Harmony - 08", "light": "rgb(221, 223, 0)", "path": "/spring-green-harmony-08" },
-{ "name": "Spring Green Harmony - 09", "light": "rgb(238, 239, 32)", "path": "/spring-green-harmony-09" },
-{ "name": "Spring Green Harmony - 10", "light": "rgb(255, 255, 63)", "path": "/spring-green-harmony-10" },
-
 { "name": "Vibrant Summer - 01", "light": "rgb(255, 89, 94)", "path": "/vibrant-summer-01" },
 { "name": "Vibrant Summer - 02", "light": "rgb(255, 202, 58)", "path": "/vibrant-summer-02" },
 { "name": "Vibrant Summer - 03", "light": "rgb(138, 201, 38)", "path": "/vibrant-summer-03" },
