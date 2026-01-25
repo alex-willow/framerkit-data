@@ -1,6 +1,6 @@
 [
 
-{ "name": "Sunset Glow - 01", "light": "rgb(249, 65, 68)",  "path": "/sunset-glow-01" },
+{ "name": "Sunset Glow - 01", "light": "rgb(111, 111, 111)",  "path": "/sunset-glow-01" },
 { "name": "Sunset Glow - 02", "light": "rgb(243, 114, 44)", "path": "/sunset-glow-02" },
 { "name": "Sunset Glow - 03", "light": "rgb(248, 150, 30)", "path": "/sunset-glow-03" },
 { "name": "Sunset Glow - 04", "light": "rgb(249, 199, 79)", "path": "/sunset-glow-04" },
