@@ -1,5 +1,5 @@
 [
-// Sunset Glow
+
 { "name": "Sunset Glow - 01", "light": "rgb(249, 65, 68)",  "path": "/sunset-glow-01" },
 { "name": "Sunset Glow - 02", "light": "rgb(243, 114, 44)", "path": "/sunset-glow-02" },
 { "name": "Sunset Glow - 03", "light": "rgb(248, 150, 30)", "path": "/sunset-glow-03" },
@@ -8,14 +8,14 @@
 { "name": "Sunset Glow - 06", "light": "rgb(67, 170, 139)", "path": "/sunset-glow-06" },
 { "name": "Sunset Glow - 07", "light": "rgb(87, 117, 144)", "path": "/sunset-glow-07" },
 
-// Oceanic Cactus
+
 { "name": "Oceanic Cactus - 01", "light": "rgb(26, 83, 92)",  "path": "/oceanic-cactus-01" },
 { "name": "Oceanic Cactus - 02", "light": "rgb(78, 205, 196)", "path": "/oceanic-cactus-02" },
 { "name": "Oceanic Cactus - 03", "light": "rgb(247, 255, 247)", "path": "/oceanic-cactus-03" },
 { "name": "Oceanic Cactus - 04", "light": "rgb(255, 107, 107)", "path": "/oceanic-cactus-04" },
 { "name": "Oceanic Cactus - 05", "light": "rgb(255, 230, 109)", "path": "/oceanic-cactus-05" },
 
-// Soft Rainbow
+
 { "name": "Soft Rainbow - 01", "light": "rgb(251, 248, 204)", "path": "/soft-rainbow-01" },
 { "name": "Soft Rainbow - 02", "light": "rgb(253, 228, 207)", "path": "/soft-rainbow-02" },
 { "name": "Soft Rainbow - 03", "light": "rgb(255, 207, 210)", "path": "/soft-rainbow-03" },
@@ -28,14 +28,14 @@
 { "name": "Soft Rainbow - 10", "light": "rgb(185, 251, 192)", "path": "/soft-rainbow-10" },
 
 
-// Pastel Comfort
+
 { "name": "Pastel Comfort - 01", "light": "rgb(212, 224, 155)", "path": "/pastel-comfort-01" },
 { "name": "Pastel Comfort - 02", "light": "rgb(246, 244, 210)", "path": "/pastel-comfort-02" },
 { "name": "Pastel Comfort - 03", "light": "rgb(203, 223, 189)", "path": "/pastel-comfort-03" },
 { "name": "Pastel Comfort - 04", "light": "rgb(241, 156, 121)", "path": "/pastel-comfort-04" },
 { "name": "Pastel Comfort - 05", "light": "rgb(164, 74, 63)",  "path": "/pastel-comfort-05" },
 
-// Deep Sea Blue
+
 { "name": "Deep Sea Blue - 01", "light": "rgb(4, 102, 200)",   "path": "/deep-sea-blue-01" },
 { "name": "Deep Sea Blue - 02", "light": "rgb(3, 83, 164)",    "path": "/deep-sea-blue-02" },
 { "name": "Deep Sea Blue - 03", "light": "rgb(2, 62, 125)",    "path": "/deep-sea-blue-03" },
@@ -47,49 +47,49 @@
 { "name": "Deep Sea Blue - 09", "light": "rgb(125, 133, 151)", "path": "/deep-sea-blue-09" },
 { "name": "Deep Sea Blue - 10", "light": "rgb(151, 157, 172)", "path": "/deep-sea-blue-10" },
 
-// Oceanic Wave
+
 { "name": "Oceanic Wave - 01", "light": "rgb(50, 90, 105)",  "path": "/oceanic-wave-01" },
 { "name": "Oceanic Wave - 02", "light": "rgb(44, 135, 116)", "path": "/oceanic-wave-02" },
 { "name": "Oceanic Wave - 03", "light": "rgb(210, 160, 75)", "path": "/oceanic-wave-03" },
 { "name": "Oceanic Wave - 04", "light": "rgb(225, 140, 95)", "path": "/oceanic-wave-04" },
 { "name": "Oceanic Wave - 05", "light": "rgb(210, 110, 78)", "path": "/oceanic-wave-05" },
 
-// Verdant Harvest
+
 { "name": "Verdant Harvest - 01", "light": "rgb(96, 108, 56)",   "path": "/verdant-harvest-01" },
 { "name": "Verdant Harvest - 02", "light": "rgb(40, 54, 24)",    "path": "/verdant-harvest-02" },
 { "name": "Verdant Harvest - 03", "light": "rgb(254, 250, 224)", "path": "/verdant-harvest-03" },
 { "name": "Verdant Harvest - 04", "light": "rgb(221, 161, 94)",  "path": "/verdant-harvest-04" },
 { "name": "Verdant Harvest - 05", "light": "rgb(188, 108, 37)",  "path": "/verdant-harvest-05" },
 
-// Tropical Sunset
+
 { "name": "Tropical Sunset - 01", "light": "rgb(220, 50, 60)",   "path": "/tropical-sunset-01" },
 { "name": "Tropical Sunset - 02", "light": "rgb(230, 250, 240)", "path": "/tropical-sunset-02" },
 { "name": "Tropical Sunset - 03", "light": "rgb(150, 210, 215)", "path": "/tropical-sunset-03" },
 { "name": "Tropical Sunset - 04", "light": "rgb(60, 120, 160)",  "path": "/tropical-sunset-04" },
 { "name": "Tropical Sunset - 05", "light": "rgb(30, 50, 80)",    "path": "/tropical-sunset-05" },
 
-// Tropical Splash
+
 { "name": "Tropical Splash - 01", "light": "rgb(142, 202, 230)", "path": "/tropical-splash-01" },
 { "name": "Tropical Splash - 02", "light": "rgb(33, 158, 188)",  "path": "/tropical-splash-02" },
 { "name": "Tropical Splash - 03", "light": "rgb(2, 48, 71)",     "path": "/tropical-splash-03" },
 { "name": "Tropical Splash - 04", "light": "rgb(255, 183, 3)",   "path": "/tropical-splash-04" },
 { "name": "Tropical Splash - 05", "light": "rgb(251, 133, 0)",   "path": "/tropical-splash-05" },
 
-// Dreamy Pastels
+
 { "name": "Dreamy Pastels - 01", "light": "rgb(205, 180, 219)", "path": "/dreamy-pastels-01" },
 { "name": "Dreamy Pastels - 02", "light": "rgb(255, 200, 221)", "path": "/dreamy-pastels-02" },
 { "name": "Dreamy Pastels - 03", "light": "rgb(255, 175, 204)", "path": "/dreamy-pastels-03" },
 { "name": "Dreamy Pastels - 04", "light": "rgb(189, 224, 254)", "path": "/dreamy-pastels-04" },
 { "name": "Dreamy Pastels - 05", "light": "rgb(162, 210, 255)", "path": "/dreamy-pastels-05" },
 
-// Golden Fields
+
 { "name": "Golden Fields - 01", "light": "rgb(204, 213, 174)", "path": "/golden-fields-01" },
 { "name": "Golden Fields - 02", "light": "rgb(233, 237, 201)", "path": "/golden-fields-02" },
 { "name": "Golden Fields - 03", "light": "rgb(254, 250, 224)", "path": "/golden-fields-03" },
 { "name": "Golden Fields - 04", "light": "rgb(250, 237, 205)", "path": "/golden-fields-04" },
 { "name": "Golden Fields - 05", "light": "rgb(212, 163, 115)", "path": "/golden-fields-05" },
 
-// Blue Ocean Serenity
+
 { "name": "Blue Ocean Serenity - 01", "light": "rgb(3, 4, 94)",    "path": "/blue-ocean-serenity-01" },
 { "name": "Blue Ocean Serenity - 02", "light": "rgb(2, 62, 138)",  "path": "/blue-ocean-serenity-02" },
 { "name": "Blue Ocean Serenity - 03", "light": "rgb(0, 119, 182)", "path": "/blue-ocean-serenity-03" },
@@ -100,7 +100,7 @@
 { "name": "Blue Ocean Serenity - 08", "light": "rgb(173, 232, 244)", "path": "/blue-ocean-serenity-08" },
 { "name": "Blue Ocean Serenity - 09", "light": "rgb(202, 240, 248)", "path": "/blue-ocean-serenity-09" },
 
-// Earthy Calm
+
 { "name": "Earthy Calm - 01", "light": "rgb(255, 205, 178)", "path": "/earthy-calm-01" },
 { "name": "Earthy Calm - 02", "light": "rgb(255, 180, 162)", "path": "/earthy-calm-02" },
 { "name": "Earthy Calm - 03", "light": "rgb(229, 152, 155)", "path": "/earthy-calm-03" },
@@ -108,14 +108,14 @@
 { "name": "Earthy Calm - 05", "light": "rgb(109, 104, 117)", "path": "/earthy-calm-05" },
 
 
-// Glamorous Noir
+
 { "name": "Glamorous Noir - 01", "light": "rgb(0, 0, 0)", "path": "/glamorous-noir-01" },
 { "name": "Glamorous Noir - 02", "light": "rgb(20, 33, 61)", "path": "/glamorous-noir-02" },
 { "name": "Glamorous Noir - 03", "light": "rgb(252, 163, 17)", "path": "/glamorous-noir-03" },
 { "name": "Glamorous Noir - 04", "light": "rgb(229, 229, 229)", "path": "/glamorous-noir-04" },
 { "name": "Glamorous Noir - 05", "light": "rgb(255, 255, 255)", "path": "/glamorous-noir-05" },
 
-// Serene Oasis
+
 { "name": "Serene Oasis - 01", "light": "rgb(203, 153, 126)", "path": "/serene-oasis-01" },
 { "name": "Serene Oasis - 02", "light": "rgb(221, 190, 169)", "path": "/serene-oasis-02" },
 { "name": "Serene Oasis - 03", "light": "rgb(255, 232, 214)", "path": "/serene-oasis-03" },
@@ -123,14 +123,14 @@
 { "name": "Serene Oasis - 05", "light": "rgb(165, 165, 141)", "path": "/serene-oasis-05" },
 { "name": "Serene Oasis - 06", "light": "rgb(107, 112, 92)", "path": "/serene-oasis-06" },
 
-// Autumn Warmth
+
 { "name": "Autumn Warmth - 01", "light": "rgb(0, 48, 73)", "path": "/autumn-warmth-01" },
 { "name": "Autumn Warmth - 02", "light": "rgb(214, 40, 40)", "path": "/autumn-warmth-02" },
 { "name": "Autumn Warmth - 03", "light": "rgb(247, 127, 0)", "path": "/autumn-warmth-03" },
 { "name": "Autumn Warmth - 04", "light": "rgb(252, 191, 73)", "path": "/autumn-warmth-04" },
 { "name": "Autumn Warmth - 05", "light": "rgb(234, 226, 183)", "path": "/autumn-warmth-05" },
 
-// Peachy Glow
+
 { "name": "Peachy Glow - 01", "light": "rgb(254, 197, 187)", "path": "/peachy-glow-01" },
 { "name": "Peachy Glow - 02", "light": "rgb(252, 213, 206)", "path": "/peachy-glow-02" },
 { "name": "Peachy Glow - 03", "light": "rgb(250, 225, 221)", "path": "/peachy-glow-03" },
@@ -142,14 +142,14 @@
 { "name": "Peachy Glow - 09", "light": "rgb(255, 215, 186)", "path": "/peachy-glow-09" },
 { "name": "Peachy Glow - 10", "light": "rgb(254, 200, 154)", "path": "/peachy-glow-10" },
 
-// Vibrant Fiesta
+
 { "name": "Vibrant Fiesta - 01", "light": "rgb(255, 190, 11)", "path": "/vibrant-fiesta-01" },
 { "name": "Vibrant Fiesta - 02", "light": "rgb(251, 86, 7)", "path": "/vibrant-fiesta-02" },
 { "name": "Vibrant Fiesta - 03", "light": "rgb(255, 0, 110)", "path": "/vibrant-fiesta-03" },
 { "name": "Vibrant Fiesta - 04", "light": "rgb(131, 56, 236)", "path": "/vibrant-fiesta-04" },
 { "name": "Vibrant Fiesta - 05", "light": "rgb(58, 134, 255)", "path": "/vibrant-fiesta-05" },
 
-// Red Horizon
+
 { "name": "Red Horizon - 01", "light": "rgb(3, 7, 30)", "path": "/red-horizon-01" },
 { "name": "Red Horizon - 02", "light": "rgb(55, 6, 23)", "path": "/red-horizon-02" },
 { "name": "Red Horizon - 03", "light": "rgb(106, 4, 15)", "path": "/red-horizon-03" },
@@ -455,14 +455,14 @@
 { "name": "Coastal Blues - 09", "light": "rgb(137, 194, 217)", "path": "/coastal-blues-09" },
 { "name": "Coastal Blues - 10", "light": "rgb(169, 214, 229)", "path": "/coastal-blues-10" },
 
-// Purple Sunset
+
 { "name": "Purple Sunset - 01", "light": "rgb(57, 0, 153)", "path": "/purple-sunset-01" },
 { "name": "Purple Sunset - 02", "light": "rgb(158, 0, 89)", "path": "/purple-sunset-02" },
 { "name": "Purple Sunset - 03", "light": "rgb(255, 0, 84)", "path": "/purple-sunset-03" },
 { "name": "Purple Sunset - 04", "light": "rgb(255, 84, 0)", "path": "/purple-sunset-04" },
 { "name": "Purple Sunset - 05", "light": "rgb(255, 189, 0)", "path": "/purple-sunset-05" },
 
-// Spring Green Harmony
+
 { "name": "Spring Green Harmony - 01", "light": "rgb(0, 127, 95)", "path": "/spring-green-harmony-01" },
 { "name": "Spring Green Harmony - 02", "light": "rgb(43, 147, 72)", "path": "/spring-green-harmony-02" },
 { "name": "Spring Green Harmony - 03", "light": "rgb(85, 166, 48)", "path": "/spring-green-harmony-03" },
@@ -474,21 +474,21 @@
 { "name": "Spring Green Harmony - 09", "light": "rgb(238, 239, 32)", "path": "/spring-green-harmony-09" },
 { "name": "Spring Green Harmony - 10", "light": "rgb(255, 255, 63)", "path": "/spring-green-harmony-10" },
 
-// Vibrant Summer
+
 { "name": "Vibrant Summer - 01", "light": "rgb(255, 89, 94)", "path": "/vibrant-summer-01" },
 { "name": "Vibrant Summer - 02", "light": "rgb(255, 202, 58)", "path": "/vibrant-summer-02" },
 { "name": "Vibrant Summer - 03", "light": "rgb(138, 201, 38)", "path": "/vibrant-summer-03" },
 { "name": "Vibrant Summer - 04", "light": "rgb(25, 130, 196)", "path": "/vibrant-summer-04" },
 { "name": "Vibrant Summer - 05", "light": "rgb(106, 76, 147)", "path": "/vibrant-summer-05" },
 
-// Leafy Green Garden
+
 { "name": "Leafy Green Garden - 01", "light": "rgb(19, 42, 19)", "path": "/leafy-green-garden-01" },
 { "name": "Leafy Green Garden - 02", "light": "rgb(49, 87, 44)", "path": "/leafy-green-garden-02" },
 { "name": "Leafy Green Garden - 03", "light": "rgb(79, 119, 45)", "path": "/leafy-green-garden-03" },
 { "name": "Leafy Green Garden - 04", "light": "rgb(144, 169, 85)", "path": "/leafy-green-garden-04" },
 { "name": "Leafy Green Garden - 05", "light": "rgb(236, 243, 158)", "path": "/leafy-green-garden-05" },
 
-// Cherry Blossom Bloom
+
 { "name": "Cherry Blossom Bloom - 01", "light": "rgb(89, 13, 34)", "path": "/cherry-blossom-bloom-01" },
 { "name": "Cherry Blossom Bloom - 02", "light": "rgb(128, 15, 47)", "path": "/cherry-blossom-bloom-02" },
 { "name": "Cherry Blossom Bloom - 03", "light": "rgb(164, 19, 60)", "path": "/cherry-blossom-bloom-03" },
@@ -500,14 +500,14 @@
 { "name": "Cherry Blossom Bloom - 09", "light": "rgb(255, 204, 213)", "path": "/cherry-blossom-bloom-09" },
 { "name": "Cherry Blossom Bloom - 10", "light": "rgb(255, 240, 243)", "path": "/cherry-blossom-bloom-10" },
 
-// Purple Sunset
+
 { "name": "Purple Sunset - 01", "light": "rgb(57, 0, 153)", "path": "/purple-sunset-01" },
 { "name": "Purple Sunset - 02", "light": "rgb(158, 0, 89)", "path": "/purple-sunset-02" },
 { "name": "Purple Sunset - 03", "light": "rgb(255, 0, 84)", "path": "/purple-sunset-03" },
 { "name": "Purple Sunset - 04", "light": "rgb(255, 84, 0)", "path": "/purple-sunset-04" },
 { "name": "Purple Sunset - 05", "light": "rgb(255, 189, 0)", "path": "/purple-sunset-05" },
 
-// Spring Green Harmony
+
 { "name": "Spring Green Harmony - 01", "light": "rgb(0, 127, 95)", "path": "/spring-green-harmony-01" },
 { "name": "Spring Green Harmony - 02", "light": "rgb(43, 147, 72)", "path": "/spring-green-harmony-02" },
 { "name": "Spring Green Harmony - 03", "light": "rgb(85, 166, 48)", "path": "/spring-green-harmony-03" },
@@ -519,21 +519,20 @@
 { "name": "Spring Green Harmony - 09", "light": "rgb(238, 239, 32)", "path": "/spring-green-harmony-09" },
 { "name": "Spring Green Harmony - 10", "light": "rgb(255, 255, 63)", "path": "/spring-green-harmony-10" },
 
-// Vibrant Summer
 { "name": "Vibrant Summer - 01", "light": "rgb(255, 89, 94)", "path": "/vibrant-summer-01" },
 { "name": "Vibrant Summer - 02", "light": "rgb(255, 202, 58)", "path": "/vibrant-summer-02" },
 { "name": "Vibrant Summer - 03", "light": "rgb(138, 201, 38)", "path": "/vibrant-summer-03" },
 { "name": "Vibrant Summer - 04", "light": "rgb(25, 130, 196)", "path": "/vibrant-summer-04" },
 { "name": "Vibrant Summer - 05", "light": "rgb(106, 76, 147)", "path": "/vibrant-summer-05" },
 
-// Leafy Green Garden
+
 { "name": "Leafy Green Garden - 01", "light": "rgb(19, 42, 19)", "path": "/leafy-green-garden-01" },
 { "name": "Leafy Green Garden - 02", "light": "rgb(49, 87, 44)", "path": "/leafy-green-garden-02" },
 { "name": "Leafy Green Garden - 03", "light": "rgb(79, 119, 45)", "path": "/leafy-green-garden-03" },
 { "name": "Leafy Green Garden - 04", "light": "rgb(144, 169, 85)", "path": "/leafy-green-garden-04" },
 { "name": "Leafy Green Garden - 05", "light": "rgb(236, 243, 158)", "path": "/leafy-green-garden-05" },
 
-// Cherry Blossom Bloom
+
 { "name": "Cherry Blossom Bloom - 01", "light": "rgb(89, 13, 34)", "path": "/cherry-blossom-bloom-01" },
 { "name": "Cherry Blossom Bloom - 02", "light": "rgb(128, 15, 47)", "path": "/cherry-blossom-bloom-02" },
 { "name": "Cherry Blossom Bloom - 03", "light": "rgb(164, 19, 60)", "path": "/cherry-blossom-bloom-03" },
@@ -545,14 +544,14 @@
 { "name": "Cherry Blossom Bloom - 09", "light": "rgb(255, 204, 213)", "path": "/cherry-blossom-bloom-09" },
 { "name": "Cherry Blossom Bloom - 10", "light": "rgb(255, 240, 243)", "path": "/cherry-blossom-bloom-10" },
 
-// Earthly Tones
+
 { "name": "Earthly Tones - 01", "light": "rgb(85, 91, 110)", "path": "/earthly-tones-01" },
 { "name": "Earthly Tones - 02", "light": "rgb(137, 176, 174)", "path": "/earthly-tones-02" },
 { "name": "Earthly Tones - 03", "light": "rgb(190, 227, 219)", "path": "/earthly-tones-03" },
 { "name": "Earthly Tones - 04", "light": "rgb(250, 249, 249)", "path": "/earthly-tones-04" },
 { "name": "Earthly Tones - 05", "light": "rgb(255, 214, 186)", "path": "/earthly-tones-05" },
 
-// Pastel Dreamland
+
 { "name": "Pastel Dreamland - 01", "light": "rgb(255, 203, 242)", "path": "/pastel-dreamland-01" },
 { "name": "Pastel Dreamland - 02", "light": "rgb(243, 196, 251)", "path": "/pastel-dreamland-02" },
 { "name": "Pastel Dreamland - 03", "light": "rgb(236, 188, 253)", "path": "/pastel-dreamland-03" },
@@ -564,7 +563,7 @@
 { "name": "Pastel Dreamland - 09", "light": "rgb(200, 231, 255)", "path": "/pastel-dreamland-09" },
 { "name": "Pastel Dreamland - 10", "light": "rgb(192, 253, 255)", "path": "/pastel-dreamland-10" },
 
-// Subtle Pastel Hues
+
 { "name": "Subtle Pastel Hues - 01", "light": "rgb(234, 228, 233)", "path": "/subtle-pastel-hues-01" },
 { "name": "Subtle Pastel Hues - 02", "light": "rgb(255, 241, 230)", "path": "/subtle-pastel-hues-02" },
 { "name": "Subtle Pastel Hues - 03", "light": "rgb(253, 226, 228)", "path": "/subtle-pastel-hues-03" },
@@ -575,63 +574,63 @@
 { "name": "Subtle Pastel Hues - 08", "light": "rgb(223, 231, 253)", "path": "/subtle-pastel-hues-08" },
 { "name": "Subtle Pastel Hues - 09", "light": "rgb(205, 218, 253)", "path": "/subtle-pastel-hues-09" },
 
-// Sunny Beach Day
+
 { "name": "Coastal Breeze - 01", "light": "rgb(0, 21, 36)", "path": "/coastal-breeze-01" },
 { "name": "Coastal Breeze - 02", "light": "rgb(21, 97, 109)", "path": "/coastal-breeze-02" },
 { "name": "Coastal Breeze - 03", "light": "rgb(255, 236, 209)", "path": "/coastal-breeze-03" },
 { "name": "Coastal Breeze - 04", "light": "rgb(255, 125, 0)", "path": "/coastal-breeze-04" },
 { "name": "Coastal Breeze - 05", "light": "rgb(120, 41, 15)", "path": "/coastal-breeze-05" },
 
-// Pastel Rainbow
+
 { "name": "Pastel Rainbow - 01", "light": "rgb(112, 214, 255)", "path": "/pastel-rainbow-01" },
 { "name": "Pastel Rainbow - 02", "light": "rgb(255, 112, 166)", "path": "/pastel-rainbow-02" },
 { "name": "Pastel Rainbow - 03", "light": "rgb(255, 151, 112)", "path": "/pastel-rainbow-03" },
 { "name": "Pastel Rainbow - 04", "light": "rgb(255, 214, 112)", "path": "/pastel-rainbow-04" },
 { "name": "Pastel Rainbow - 05", "light": "rgb(233, 255, 112)", "path": "/pastel-rainbow-05" },
 
-// Golden Peachy Glow
+
 { "name": "Golden Peachy Glow - 01", "light": "rgb(201, 203, 163)", "path": "/golden-peachy-glow-01" },
 { "name": "Golden Peachy Glow - 02", "light": "rgb(255, 225, 168)", "path": "/golden-peachy-glow-02" },
 { "name": "Golden Peachy Glow - 03", "light": "rgb(226, 109, 92)", "path": "/golden-peachy-glow-03" },
 { "name": "Golden Peachy Glow - 04", "light": "rgb(114, 61, 70)", "path": "/golden-peachy-glow-04" },
 { "name": "Golden Peachy Glow - 05", "light": "rgb(71, 45, 48)", "path": "/golden-peachy-glow-05" },
 
-// Golden Summer Glow
+
 { "name": "Golden Summer Glow - 01", "light": "rgb(13, 59, 102)", "path": "/golden-summer-glow-01" },
 { "name": "Golden Summer Glow - 02", "light": "rgb(250, 240, 202)", "path": "/golden-summer-glow-02" },
 { "name": "Golden Summer Glow - 03", "light": "rgb(244, 211, 94)", "path": "/golden-summer-glow-03" },
 { "name": "Golden Summer Glow - 04", "light": "rgb(238, 150, 75)", "path": "/golden-summer-glow-04" },
 { "name": "Golden Summer Glow - 05", "light": "rgb(249, 87, 56)", "path": "/golden-summer-glow-05" },
 
-// Midnight Sky
+
 { "name": "Midnight Sky - 01", "light": "rgb(0, 41, 107)", "path": "/midnight-sky-01" },
 { "name": "Midnight Sky - 02", "light": "rgb(0, 63, 136)", "path": "/midnight-sky-02" },
 { "name": "Midnight Sky - 03", "light": "rgb(0, 80, 157)", "path": "/midnight-sky-03" },
 { "name": "Midnight Sky - 04", "light": "rgb(253, 197, 0)", "path": "/midnight-sky-04" },
 { "name": "Midnight Sky - 05", "light": "rgb(255, 213, 0)", "path": "/midnight-sky-05" },
 
-// Purple Dream
+
 { "name": "Purple Dream - 01", "light": "rgb(35, 25, 66)", "path": "/purple-dream-01" },
 { "name": "Purple Dream - 02", "light": "rgb(94, 84, 142)", "path": "/purple-dream-02" },
 { "name": "Purple Dream - 03", "light": "rgb(159, 134, 192)", "path": "/purple-dream-03" },
 { "name": "Purple Dream - 04", "light": "rgb(190, 149, 196)", "path": "/purple-dream-04" },
 { "name": "Purple Dream - 05", "light": "rgb(224, 177, 203)", "path": "/purple-dream-05" },
 
-// Serene Nature Tones
+
 { "name": "Serene Nature Tones - 01", "light": "rgb(107, 144, 128)", "path": "/serene-nature-tones-01" },
 { "name": "Serene Nature Tones - 02", "light": "rgb(164, 195, 178)", "path": "/serene-nature-tones-02" },
 { "name": "Serene Nature Tones - 03", "light": "rgb(204, 227, 222)", "path": "/serene-nature-tones-03" },
 { "name": "Serene Nature Tones - 04", "light": "rgb(234, 244, 244)", "path": "/serene-nature-tones-04" },
 { "name": "Serene Nature Tones - 05", "light": "rgb(246, 255, 248)", "path": "/serene-nature-tones-05" },
 
-// Soft Earth Hues
+
 { "name": "Soft Earth Hues - 01", "light": "rgb(237, 175, 184)", "path": "/soft-earth-hues-01" },
 { "name": "Soft Earth Hues - 02", "light": "rgb(247, 225, 215)", "path": "/soft-earth-hues-02" },
 { "name": "Soft Earth Hues - 03", "light": "rgb(222, 219, 210)", "path": "/soft-earth-hues-03" },
 { "name": "Soft Earth Hues - 04", "light": "rgb(176, 196, 177)", "path": "/soft-earth-hues-04" },
 { "name": "Soft Earth Hues - 05", "light": "rgb(74, 87, 89)", "path": "/soft-earth-hues-05" },
 
-// Sunset Gradient
+
 { "name": "Sunset Gradient - 01", "light": "rgb(255, 123, 0)", "path": "/sunset-gradient-01" },
 { "name": "Sunset Gradient - 02", "light": "rgb(255, 136, 0)", "path": "/sunset-gradient-02" },
 { "name": "Sunset Gradient - 03", "light": "rgb(255, 149, 0)", "path": "/sunset-gradient-03" },
@@ -643,7 +642,7 @@
 { "name": "Sunset Gradient - 09", "light": "rgb(255, 221, 0)", "path": "/sunset-gradient-09" },
 { "name": "Sunset Gradient - 10", "light": "rgb(255, 234, 0)", "path": "/sunset-gradient-10" },
 
-// Deep Ocean Blue
+
 { "name": "Deep Ocean Blue - 01", "light": "rgb(0, 100, 102)", "path": "/deep-ocean-blue-01" },
 { "name": "Deep Ocean Blue - 02", "light": "rgb(6, 90, 96)", "path": "/deep-ocean-blue-02" },
 { "name": "Deep Ocean Blue - 03", "light": "rgb(11, 82, 91)", "path": "/deep-ocean-blue-03" },
@@ -655,7 +654,7 @@
 { "name": "Deep Ocean Blue - 09", "light": "rgb(62, 31, 71)", "path": "/deep-ocean-blue-09" },
 { "name": "Deep Ocean Blue - 10", "light": "rgb(77, 25, 77)", "path": "/deep-ocean-blue-10" },
 
-// Beach Sunset
+
 { "name": "Beach Sunset - 01", "light": "rgb(190, 233, 232)", "path": "/beach-sunset-01" },
 { "name": "Beach Sunset - 02", "light": "rgb(98, 182, 203)", "path": "/beach-sunset-02" },
 { "name": "Beach Sunset - 03", "light": "rgb(27, 73, 101)", "path": "/beach-sunset-03" },
@@ -663,14 +662,13 @@
 { "name": "Beach Sunset - 05", "light": "rgb(95, 168, 211)", "path": "/beach-sunset-05" },
 
 
-// Sunrise Glow
 { "name": "Sunrise Glow - 01", "light": "rgb(35, 61, 77)", "path": "/sunrise-glow-01" },
 { "name": "Sunrise Glow - 02", "light": "rgb(254, 127, 45)", "path": "/sunrise-glow-02" },
 { "name": "Sunrise Glow - 03", "light": "rgb(252, 202, 70)", "path": "/sunrise-glow-03" },
 { "name": "Sunrise Glow - 04", "light": "rgb(161, 193, 129)", "path": "/sunrise-glow-04" },
 { "name": "Sunrise Glow - 05", "light": "rgb(97, 155, 138)", "path": "/sunrise-glow-05" },
 
-// Bright Green
+
 { "name": "Bright Green - 01", "light": "rgb(0, 75, 35)", "path": "/bright-green-01" },
 { "name": "Bright Green - 02", "light": "rgb(0, 100, 0)", "path": "/bright-green-02" },
 { "name": "Bright Green - 03", "light": "rgb(0, 114, 0)", "path": "/bright-green-03" },
@@ -680,14 +678,14 @@
 { "name": "Bright Green - 07", "light": "rgb(158, 240, 26)", "path": "/bright-green-07" },
 { "name": "Bright Green - 08", "light": "rgb(204, 255, 51)", "path": "/bright-green-08" },
 
-// Forest Hues
+
 { "name": "Forest Hues - 01", "light": "rgb(40, 61, 59)", "path": "/forest-hues-01" },
 { "name": "Forest Hues - 02", "light": "rgb(25, 114, 120)", "path": "/forest-hues-02" },
 { "name": "Forest Hues - 03", "light": "rgb(237, 221, 212)", "path": "/forest-hues-03" },
 { "name": "Forest Hues - 04", "light": "rgb(196, 69, 54)", "path": "/forest-hues-04" },
 { "name": "Forest Hues - 05", "light": "rgb(119, 46, 37)", "path": "/forest-hues-05" },
 
-// Blue Serenity
+
 { "name": "Blue Serenity - 01", "light": "rgb(237, 242, 251)", "path": "/blue-serenity-01" },
 { "name": "Blue Serenity - 02", "light": "rgb(226, 234, 252)", "path": "/blue-serenity-02" },
 { "name": "Blue Serenity - 03", "light": "rgb(215, 227, 252)", "path": "/blue-serenity-03" },
@@ -696,7 +694,7 @@
 { "name": "Blue Serenity - 06", "light": "rgb(182, 204, 254)", "path": "/blue-serenity-06" },
 { "name": "Blue Serenity - 07", "light": "rgb(171, 196, 255)", "path": "/blue-serenity-07" },
 
-// Neutral Earth Tones
+
 { "name": "Neutral Earth Tones - 01", "light": "rgb(10, 9, 8)", "path": "/neutral-earth-tones-01" },
 { "name": "Neutral Earth Tones - 02", "light": "rgb(34, 51, 59)", "path": "/neutral-earth-tones-02" },
 { "name": "Neutral Earth Tones - 03", "light": "rgb(234, 224, 213)", "path": "/neutral-earth-tones-03" },
