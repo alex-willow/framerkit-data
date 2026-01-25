@@ -1,14 +1,5 @@
 [
 
-{ "name": "Sunset Glow - 01", "light": "rgb(111, 111, 111)",  "path": "/sunset-glow-01" },
-{ "name": "Sunset Glow - 02", "light": "rgb(243, 114, 44)", "path": "/sunset-glow-02" },
-{ "name": "Sunset Glow - 03", "light": "rgb(248, 150, 30)", "path": "/sunset-glow-03" },
-{ "name": "Sunset Glow - 04", "light": "rgb(249, 199, 79)", "path": "/sunset-glow-04" },
-{ "name": "Sunset Glow - 05", "light": "rgb(144, 190, 109)", "path": "/sunset-glow-05" },
-{ "name": "Sunset Glow - 06", "light": "rgb(67, 170, 139)", "path": "/sunset-glow-06" },
-{ "name": "Sunset Glow - 07", "light": "rgb(87, 117, 144)", "path": "/sunset-glow-07" },
-
-
 { "name": "Oceanic Cactus - 01", "light": "rgb(26, 83, 92)",  "path": "/oceanic-cactus-01" },
 { "name": "Oceanic Cactus - 02", "light": "rgb(78, 205, 196)", "path": "/oceanic-cactus-02" },
 { "name": "Oceanic Cactus - 03", "light": "rgb(247, 255, 247)", "path": "/oceanic-cactus-03" },
