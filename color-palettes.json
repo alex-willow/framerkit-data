@@ -1,0 +1,166 @@
+{
+  "palettes": [
+    {
+      "name": "Color Palette 01",
+      "colors": "palette1",
+      "groups": {
+        "Red": [
+          {"name": "Red-50", "light": "rgb(254, 242, 242)", "dark": "rgb(60, 8, 9)", "path": "/red-50"},
+          {"name": "Red-100", "light": "rgb(255, 226, 226)", "dark": "rgb(70, 20, 20)", "path": "/red-100"},
+          {"name": "Red-200", "light": "rgb(255, 201, 201)", "dark": "rgb(90, 25, 25)", "path": "/red-200"},
+          {"name": "Red-300", "light": "rgb(255, 162, 162)", "dark": "rgb(110, 30, 30)", "path": "/red-300"},
+          {"name": "Red-400", "light": "rgb(255, 100, 103)", "dark": "rgb(140, 30, 30)", "path": "/red-400"},
+          {"name": "Red-500", "light": "rgb(251, 44, 54)", "dark": "rgb(180, 40, 50)", "path": "/red-500"},
+          {"name": "Red-600", "light": "rgb(231, 0, 11)", "dark": "rgb(200, 30, 40)", "path": "/red-600"},
+          {"name": "Red-700", "light": "rgb(193, 0, 7)", "dark": "rgb(220, 20, 30)", "path": "/red-700"},
+          {"name": "Red-800", "light": "rgb(159, 7, 18)", "dark": "rgb(240, 30, 40)", "path": "/red-800"},
+          {"name": "Red-900", "light": "rgb(130, 24, 26)", "dark": "rgb(255, 50, 60)", "path": "/red-900"},
+          {"name": "Red-950", "light": "rgb(70, 8, 9)", "dark": "rgb(255, 80, 90)", "path": "/red-950"}
+        ],
+        "Orange": [
+          {"name": "Orange-50", "light": "rgb(255, 247, 237)", "dark": "rgb(50, 25, 15)", "path": "/orange-50"},
+          {"name": "Orange-100", "light": "rgb(255, 230, 207)", "dark": "rgb(60, 30, 20)", "path": "/orange-100"},
+          {"name": "Orange-200", "light": "rgb(255, 203, 163)", "dark": "rgb(75, 35, 25)", "path": "/orange-200"},
+          {"name": "Orange-300", "light": "rgb(255, 165, 115)", "dark": "rgb(100, 40, 25)", "path": "/orange-300"},
+          {"name": "Orange-400", "light": "rgb(255, 125, 65)", "dark": "rgb(130, 50, 30)", "path": "/orange-400"},
+          {"name": "Orange-500", "light": "rgb(255, 105, 0)", "dark": "rgb(160, 60, 15)", "path": "/orange-500"},
+          {"name": "Orange-600", "light": "rgb(245, 73, 0)", "dark": "rgb(180, 45, 10)", "path": "/orange-600"},
+          {"name": "Orange-700", "light": "rgb(202, 53, 0)", "dark": "rgb(200, 40, 10)", "path": "/orange-700"},
+          {"name": "Orange-800", "light": "rgb(159, 45, 0)", "dark": "rgb(220, 50, 15)", "path": "/orange-800"},
+          {"name": "Orange-900", "light": "rgb(126, 42, 12)", "dark": "rgb(240, 60, 25)", "path": "/orange-900"},
+          {"name": "Orange-950", "light": "rgb(68, 19, 6)", "dark": "rgb(255, 80, 40)", "path": "/orange-950"}
+        ],
+        "Yellow": [
+          {"name": "Yellow-50", "light": "rgb(254, 252, 232)", "dark": "rgb(60, 55, 15)", "path": "/yellow-50"},
+          {"name": "Yellow-100", "light": "rgb(254, 249, 194)", "dark": "rgb(70, 65, 20)", "path": "/yellow-100"},
+          {"name": "Yellow-200", "light": "rgb(255, 240, 133)", "dark": "rgb(90, 85, 25)", "path": "/yellow-200"},
+          {"name": "Yellow-300", "light": "rgb(255, 223, 32)", "dark": "rgb(110, 100, 20)", "path": "/yellow-300"},
+          {"name": "Yellow-400", "light": "rgb(253, 199, 0)", "dark": "rgb(140, 115, 15)", "path": "/yellow-400"},
+          {"name": "Yellow-500", "light": "rgb(240, 177, 0)", "dark": "rgb(160, 135, 10)", "path": "/yellow-500"},
+          {"name": "Yellow-600", "light": "rgb(208, 135, 0)", "dark": "rgb(180, 150, 5)", "path": "/yellow-600"},
+          {"name": "Yellow-700", "light": "rgb(166, 95, 0)", "dark": "rgb(200, 170, 10)", "path": "/yellow-700"},
+          {"name": "Yellow-800", "light": "rgb(137, 75, 0)", "dark": "rgb(220, 190, 15)", "path": "/yellow-800"},
+          {"name": "Yellow-900", "light": "rgb(115, 62, 10)", "dark": "rgb(240, 210, 20)", "path": "/yellow-900"},
+          {"name": "Yellow-950", "light": "rgb(67, 32, 4)", "dark": "rgb(255, 230, 40)", "path": "/yellow-950"}
+        ],
+        "Lime": [
+          {"name": "Lime-50", "light": "rgb(247, 254, 231)", "dark": "rgb(50, 60, 15)", "path": "/lime-50"},
+          {"name": "Lime-100", "light": "rgb(236, 252, 202)", "dark": "rgb(60, 70, 20)", "path": "/lime-100"},
+          {"name": "Lime-200", "light": "rgb(216, 249, 153)", "dark": "rgb(75, 90, 25)", "path": "/lime-200"},
+          {"name": "Lime-300", "light": "rgb(187, 244, 81)", "dark": "rgb(100, 115, 20)", "path": "/lime-300"},
+          {"name": "Lime-400", "light": "rgb(154, 230, 0)", "dark": "rgb(130, 145, 10)", "path": "/lime-400"},
+          {"name": "Lime-500", "light": "rgb(124, 207, 0)", "dark": "rgb(160, 180, 5)", "path": "/lime-500"},
+          {"name": "Lime-600", "light": "rgb(94, 165, 0)", "dark": "rgb(180, 200, 0)", "path": "/lime-600"},
+          {"name": "Lime-700", "light": "rgb(73, 125, 0)", "dark": "rgb(200, 220, 0)", "path": "/lime-700"},
+          {"name": "Lime-800", "light": "rgb(60, 99, 0)", "dark": "rgb(220, 240, 10)", "path": "/lime-800"},
+          {"name": "Lime-900", "light": "rgb(53, 83, 14)", "dark": "rgb(240, 255, 20)", "path": "/lime-900"},
+          {"name": "Lime-950", "light": "rgb(25, 46, 3)", "dark": "rgb(255, 255, 40)", "path": "/lime-950"}
+        ],
+        "Green": [
+          {"name": "Green-50", "light": "rgb(240, 253, 244)", "dark": "rgb(15, 50, 25)", "path": "/green-50"},
+          {"name": "Green-100", "light": "rgb(220, 252, 231)", "dark": "rgb(20, 60, 30)", "path": "/green-100"},
+          {"name": "Green-200", "light": "rgb(185, 248, 207)", "dark": "rgb(25, 75, 35)", "path": "/green-200"},
+          {"name": "Green-300", "light": "rgb(134, 239, 172)", "dark": "rgb(35, 100, 50)", "path": "/green-300"},
+          {"name": "Green-400", "light": "rgb(90, 222, 129)", "dark": "rgb(50, 130, 60)", "path": "/green-400"},
+          {"name": "Green-500", "light": "rgb(52, 211, 85)", "dark": "rgb(70, 160, 70)", "path": "/green-500"},
+          {"name": "Green-600", "light": "rgb(16, 185, 129)", "dark": "rgb(90, 190, 80)", "path": "/green-600"},
+          {"name": "Green-700", "light": "rgb(5, 150, 105)", "dark": "rgb(110, 210, 90)", "path": "/green-700"},
+          {"name": "Green-800", "light": "rgb(4, 120, 87)", "dark": "rgb(130, 230, 100)", "path": "/green-800"},
+          {"name": "Green-900", "light": "rgb(6, 95, 70)", "dark": "rgb(150, 250, 110)", "path": "/green-900"},
+          {"name": "Green-950", "light": "rgb(2, 60, 45)", "dark": "rgb(180, 255, 130)", "path": "/green-950"}
+        ],
+        "Teal": [
+          {"name": "Teal-50", "light": "rgb(240, 253, 250)", "dark": "rgb(10, 40, 45)", "path": "/teal-50"},
+          {"name": "Teal-100", "light": "rgb(204, 251, 241)", "dark": "rgb(15, 50, 55)", "path": "/teal-100"},
+          {"name": "Teal-200", "light": "rgb(153, 246, 228)", "dark": "rgb(20, 70, 70)", "path": "/teal-200"},
+          {"name": "Teal-300", "light": "rgb(94, 234, 212)", "dark": "rgb(30, 90, 90)", "path": "/teal-300"},
+          {"name": "Teal-400", "light": "rgb(45, 212, 191)", "dark": "rgb(40, 110, 110)", "path": "/teal-400"},
+          {"name": "Teal-500", "light": "rgb(20, 184, 166)", "dark": "rgb(60, 140, 130)", "path": "/teal-500"},
+          {"name": "Teal-600", "light": "rgb(13, 148, 136)", "dark": "rgb(80, 160, 150)", "path": "/teal-600"},
+          {"name": "Teal-700", "light": "rgb(15, 118, 110)", "dark": "rgb(100, 190, 170)", "path": "/teal-700"},
+          {"name": "Teal-800", "light": "rgb(17, 94, 89)", "dark": "rgb(120, 210, 190)", "path": "/teal-800"},
+          {"name": "Teal-900", "light": "rgb(15, 77, 68)", "dark": "rgb(150, 230, 210)", "path": "/teal-900"},
+          {"name": "Teal-950", "light": "rgb(7, 45, 40)", "dark": "rgb(180, 255, 230)", "path": "/teal-950"}
+        ],
+        "Blue": [
+          {"name": "Blue-50", "light": "rgb(239, 246, 255)", "dark": "rgb(10, 15, 50)", "path": "/blue-50"},
+          {"name": "Blue-100", "light": "rgb(219, 234, 254)", "dark": "rgb(15, 20, 70)", "path": "/blue-100"},
+          {"name": "Blue-200", "light": "rgb(191, 219, 254)", "dark": "rgb(20, 30, 90)", "path": "/blue-200"},
+          {"name": "Blue-300", "light": "rgb(147, 197, 253)", "dark": "rgb(30, 40, 110)", "path": "/blue-300"},
+          {"name": "Blue-400", "light": "rgb(96, 165, 250)", "dark": "rgb(40, 60, 140)", "path": "/blue-400"},
+          {"name": "Blue-500", "light": "rgb(59, 130, 246)", "dark": "rgb(60, 100, 180)", "path": "/blue-500"},
+          {"name": "Blue-600", "light": "rgb(37, 99, 235)", "dark": "rgb(80, 120, 200)", "path": "/blue-600"},
+          {"name": "Blue-700", "light": "rgb(29, 78, 216)", "dark": "rgb(100, 140, 220)", "path": "/blue-700"},
+          {"name": "Blue-800", "light": "rgb(30, 64, 175)", "dark": "rgb(120, 160, 240)", "path": "/blue-800"},
+          {"name": "Blue-900", "light": "rgb(30, 58, 138)", "dark": "rgb(150, 180, 255)", "path": "/blue-900"},
+          {"name": "Blue-950", "light": "rgb(23, 37, 102)", "dark": "rgb(180, 200, 255)", "path": "/blue-950"}
+        ],
+        "Indigo": [
+          {"name": "Indigo-50", "light": "rgb(238, 242, 255)", "dark": "rgb(10, 10, 40)", "path": "/indigo-50"},
+          {"name": "Indigo-100", "light": "rgb(224, 231, 255)", "dark": "rgb(15, 15, 60)", "path": "/indigo-100"},
+          {"name": "Indigo-200", "light": "rgb(199, 210, 254)", "dark": "rgb(20, 20, 80)", "path": "/indigo-200"},
+          {"name": "Indigo-300", "light": "rgb(165, 180, 252)", "dark": "rgb(30, 30, 100)", "path": "/indigo-300"},
+          {"name": "Indigo-400", "light": "rgb(129, 140, 248)", "dark": "rgb(40, 40, 130)", "path": "/indigo-400"},
+          {"name": "Indigo-500", "light": "rgb(99, 102, 241)", "dark": "rgb(60, 60, 160)", "path": "/indigo-500"},
+          {"name": "Indigo-600", "light": "rgb(79, 70, 229)", "dark": "rgb(80, 80, 180)", "path": "/indigo-600"},
+          {"name": "Indigo-700", "light": "rgb(67, 56, 202)", "dark": "rgb(100, 100, 200)", "path": "/indigo-700"},
+          {"name": "Indigo-800", "light": "rgb(55, 48, 163)", "dark": "rgb(120, 120, 220)", "path": "/indigo-800"},
+          {"name": "Indigo-900", "light": "rgb(49, 46, 129)", "dark": "rgb(150, 150, 240)", "path": "/indigo-900"},
+          {"name": "Indigo-950", "light": "rgb(30, 30, 70)", "dark": "rgb(180, 180, 255)", "path": "/indigo-950"}
+        ],
+        "Violet": [
+          {"name": "Violet-50", "light": "rgb(245, 243, 255)", "dark": "rgb(20, 10, 40)", "path": "/violet-50"},
+          {"name": "Violet-100", "light": "rgb(237, 233, 254)", "dark": "rgb(30, 15, 60)", "path": "/violet-100"},
+          {"name": "Violet-200", "light": "rgb(221, 214, 254)", "dark": "rgb(40, 20, 80)", "path": "/violet-200"},
+          {"name": "Violet-300", "light": "rgb(196, 181, 253)", "dark": "rgb(50, 30, 100)", "path": "/violet-300"},
+          {"name": "Violet-400", "light": "rgb(167, 139, 250)", "dark": "rgb(60, 40, 130)", "path": "/violet-400"},
+          {"name": "Violet-500", "light": "rgb(139, 92, 246)", "dark": "rgb(80, 60, 160)", "path": "/violet-500"},
+          {"name": "Violet-600", "light": "rgb(124, 58, 237)", "dark": "rgb(100, 80, 180)", "path": "/violet-600"},
+          {"name": "Violet-700", "light": "rgb(109, 40, 217)", "dark": "rgb(120, 100, 200)", "path": "/violet-700"},
+          {"name": "Violet-800", "light": "rgb(91, 33, 182)", "dark": "rgb(140, 120, 220)", "path": "/violet-800"},
+          {"name": "Violet-900", "light": "rgb(76, 28, 145)", "dark": "rgb(160, 140, 240)", "path": "/violet-900"},
+          {"name": "Violet-950", "light": "rgb(45, 15, 90)", "dark": "rgb(180, 160, 255)", "path": "/violet-950"}
+        ],
+        "Purple": [
+          {"name": "Purple-50", "light": "rgb(250, 245, 255)", "dark": "rgb(25, 10, 40)", "path": "/purple-50"},
+          {"name": "Purple-100", "light": "rgb(243, 232, 255)", "dark": "rgb(30, 15, 60)", "path": "/purple-100"},
+          {"name": "Purple-200", "light": "rgb(233, 213, 255)", "dark": "rgb(40, 20, 80)", "path": "/purple-200"},
+          {"name": "Purple-300", "light": "rgb(216, 180, 254)", "dark": "rgb(50, 30, 100)", "path": "/purple-300"},
+          {"name": "Purple-400", "light": "rgb(192, 132, 252)", "dark": "rgb(60, 40, 130)", "path": "/purple-400"},
+          {"name": "Purple-500", "light": "rgb(168, 85, 247)", "dark": "rgb(80, 60, 160)", "path": "/purple-500"},
+          {"name": "Purple-600", "light": "rgb(147, 51, 234)", "dark": "rgb(100, 80, 180)", "path": "/purple-600"},
+          {"name": "Purple-700", "light": "rgb(126, 34, 206)", "dark": "rgb(120, 100, 200)", "path": "/purple-700"},
+          {"name": "Purple-800", "light": "rgb(107, 33, 179)", "dark": "rgb(140, 120, 220)", "path": "/purple-800"},
+          {"name": "Purple-900", "light": "rgb(88, 28, 138)", "dark": "rgb(160, 140, 240)", "path": "/purple-900"},
+          {"name": "Purple-950", "light": "rgb(50, 15, 80)", "dark": "rgb(180, 160, 255)", "path": "/purple-950"}
+        ],
+        "Pink": [
+          {"name": "Pink-50", "light": "rgb(255, 241, 249)", "dark": "rgb(40, 10, 30)", "path": "/pink-50"},
+          {"name": "Pink-100", "light": "rgb(255, 225, 242)", "dark": "rgb(50, 15, 40)", "path": "/pink-100"},
+          {"name": "Pink-200", "light": "rgb(255, 199, 233)", "dark": "rgb(60, 20, 50)", "path": "/pink-200"},
+          {"name": "Pink-300", "light": "rgb(255, 162, 217)", "dark": "rgb(70, 30, 70)", "path": "/pink-300"},
+          {"name": "Pink-400", "light": "rgb(255, 120, 199)", "dark": "rgb(90, 40, 90)", "path": "/pink-400"},
+          {"name": "Pink-500", "light": "rgb(251, 71, 159)", "dark": "rgb(110, 50, 110)", "path": "/pink-500"},
+          {"name": "Pink-600", "light": "rgb(219, 39, 119)", "dark": "rgb(130, 60, 130)", "path": "/pink-600"},
+          {"name": "Pink-700", "light": "rgb(190, 24, 93)", "dark": "rgb(150, 70, 150)", "path": "/pink-700"},
+          {"name": "Pink-800", "light": "rgb(157, 23, 77)", "dark": "rgb(170, 90, 170)", "path": "/pink-800"},
+          {"name": "Pink-900", "light": "rgb(131, 24, 67)", "dark": "rgb(190, 110, 190)", "path": "/pink-900"},
+          {"name": "Pink-950", "light": "rgb(76, 5, 37)", "dark": "rgb(210, 140, 210)", "path": "/pink-950"}
+        ],
+        "Gray": [
+          {"name": "Gray-50", "light": "rgb(250, 250, 250)", "dark": "rgb(20, 20, 20)", "path": "/gray-50"},
+          {"name": "Gray-100", "light": "rgb(245, 245, 245)", "dark": "rgb(30, 30, 30)", "path": "/gray-100"},
+          {"name": "Gray-200", "light": "rgb(229, 229, 229)", "dark": "rgb(50, 50, 50)", "path": "/gray-200"},
+          {"name": "Gray-300", "light": "rgb(212, 212, 212)", "dark": "rgb(70, 70, 70)", "path": "/gray-300"},
+          {"name": "Gray-400", "light": "rgb(163, 163, 163)", "dark": "rgb(100, 100, 100)", "path": "/gray-400"},
+          {"name": "Gray-500", "light": "rgb(115, 115, 115)", "dark": "rgb(130, 130, 130)", "path": "/gray-500"},
+          {"name": "Gray-600", "light": "rgb(82, 82, 82)", "dark": "rgb(160, 160, 160)", "path": "/gray-600"},
+          {"name": "Gray-700", "light": "rgb(64, 64, 64)", "dark": "rgb(190, 190, 190)", "path": "/gray-700"},
+          {"name": "Gray-800", "light": "rgb(38, 38, 38)", "dark": "rgb(220, 220, 220)", "path": "/gray-800"},
+          {"name": "Gray-900", "light": "rgb(17, 17, 17)", "dark": "rgb(245, 245, 245)", "path": "/gray-900"},
+          {"name": "Gray-950", "light": "rgb(10, 10, 10)", "dark": "rgb(255, 255, 255)", "path": "/gray-950"}
+        ]
+      }
+    }
+  ]
+}
