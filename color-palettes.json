@@ -166,7 +166,7 @@
       "name": "Color Palette 02",
       "colors": "palette2",
       "groups": {
-        "Red": [
+        "Base Red": [
           {"name": "Base Red-50", "light": "rgb(255, 235, 238)", "dark": "rgb(62,0,8)", "path": "/red-50"},
           {"name": "Base Red-100", "light": "rgb(255, 205, 210)", "dark": "rgb(82,0,10)", "path": "/red-100"},
           {"name": "Base Red-200", "light": "rgb(239,154,154)", "dark": "rgb(102,0,12)", "path": "/red-200"},
@@ -179,7 +179,7 @@
           {"name": "Base Red-900", "light": "rgb(183,28,28)", "dark": "rgb(250,60,70)", "path": "/red-900"},
           {"name": "Base Red-950", "light": "rgb(127,0,0)", "dark": "rgb(255,90,100)", "path": "/red-950"}
         ],
-        "Blue": [
+        "Base Blue": [
           {"name": "Base Blue-50", "light": "rgb(227,242,253)", "dark": "rgb(0,28,41)", "path": "/blue-50"},
           {"name": "Base Blue-100", "light": "rgb(187,222,251)", "dark": "rgb(0,40,60)", "path": "/blue-100"},
           {"name": "Base Blue-200", "light": "rgb(144,202,249)", "dark": "rgb(0,55,82)", "path": "/blue-200"},
@@ -192,7 +192,7 @@
           {"name": "Base Blue-900", "light": "rgb(13,71,161)", "dark": "rgb(30,180,230)", "path": "/blue-900"},
           {"name": "Base Blue-950", "light": "rgb(8,45,102)", "dark": "rgb(50,200,250)", "path": "/blue-950"}
         ],
-        "Green": [
+        "Base Green": [
           {"name": "Base Green-50", "light": "rgb(232,245,233)", "dark": "rgb(4,41,5)", "path": "/green-50"},
           {"name": "Base Green-100", "light": "rgb(200,230,201)", "dark": "rgb(5,50,6)", "path": "/green-100"},
           {"name": "Base Green-200", "light": "rgb(165,214,167)", "dark": "rgb(8,65,10)", "path": "/green-200"},
@@ -205,7 +205,7 @@
           {"name": "Base Green-900", "light": "rgb(27,94,32)", "dark": "rgb(40,200,50)", "path": "/green-900"},
           {"name": "Base Green-950", "light": "rgb(13,50,15)", "dark": "rgb(50,220,60)", "path": "/green-950"}
         ],
-        "Yellow": [
+        "Base Yellow": [
           {"name": "Base Yellow-50", "light": "rgb(255,253,231)", "dark": "rgb(60,56,0)", "path": "/yellow-50"},
           {"name": "Base Yellow-100", "light": "rgb(255,249,196)", "dark": "rgb(70,65,5)", "path": "/yellow-100"},
           {"name": "Base Yellow-200", "light": "rgb(255,245,157)", "dark": "rgb(85,80,10)", "path": "/yellow-200"},
@@ -218,7 +218,7 @@
           {"name": "Base Yellow-900", "light": "rgb(245,127,23)", "dark": "rgb(230,200,50)", "path": "/yellow-900"},
           {"name": "Base Yellow-950", "light": "rgb(190,90,0)", "dark": "rgb(250,220,80)", "path": "/yellow-950"}
         ],
-        "Purple": [
+        "Base Purple": [
           {"name": "Base Purple-50", "light": "rgb(243,229,245)", "dark": "rgb(42,0,40)", "path": "/purple-50"},
           {"name": "Base Purple-100", "light": "rgb(225,190,231)", "dark": "rgb(60,0,55)", "path": "/purple-100"},
           {"name": "Base Purple-200", "light": "rgb(206,147,216)", "dark": "rgb(80,0,70)", "path": "/purple-200"},
@@ -231,7 +231,7 @@
           {"name": "Base Purple-900", "light": "rgb(74,20,140)", "dark": "rgb(220,0,210)", "path": "/purple-900"},
           {"name": "Base Purple-950", "light": "rgb(49,10,110)", "dark": "rgb(240,0,230)", "path": "/purple-950"}
         ],
-        "Gray": [
+        "Base Gray": [
           {"name": "Base Gray-50", "light": "rgb(250,250,250)", "dark": "rgb(25,25,25)", "path": "/gray-50"},
           {"name": "Base Gray-100", "light": "rgb(245,245,245)", "dark": "rgb(40,40,40)", "path": "/gray-100"},
           {"name": "Base Gray-200", "light": "rgb(238,238,238)", "dark": "rgb(60,60,60)", "path": "/gray-200"},
@@ -250,7 +250,7 @@
       "name": "Color Palette 03 (Apple)",
       "colors": "palette3",
       "groups": {
-        "Blue": [
+        "Apple Blue": [
           { "name": "Apple Blue-50", "light": "rgb(235, 245, 255)", "dark": "rgb(0, 30, 60)", "path": "/apple-blue-50" },
           { "name": "Apple Blue-100", "light": "rgb(209, 229, 255)", "dark": "rgb(0, 45, 90)", "path": "/apple-blue-100" },
           { "name": "Apple Blue-200", "light": "rgb(170, 200, 255)", "dark": "rgb(0, 60, 120)", "path": "/apple-blue-200" },
@@ -263,7 +263,7 @@
           { "name": "Apple Blue-900", "light": "rgb(0, 40, 100)", "dark": "rgb(90, 210, 255)", "path": "/apple-blue-900" },
           { "name": "Apple Blue-950", "light": "rgb(0, 20, 60)", "dark": "rgb(110, 230, 255)", "path": "/apple-blue-950" }
         ],
-        "Red": [
+        "Apple Red": [
           { "name": "Apple Red-50", "light": "rgb(255, 240, 240)", "dark": "rgb(60, 0, 0)", "path": "/apple-red-50" },
           { "name": "Apple Red-100", "light": "rgb(255, 210, 210)", "dark": "rgb(80, 0, 0)", "path": "/apple-red-100" },
           { "name": "Apple Red-200", "light": "rgb(255, 170, 170)", "dark": "rgb(100, 0, 0)", "path": "/apple-red-200" },
@@ -276,7 +276,7 @@
           { "name": "Apple Red-900", "light": "rgb(140, 0, 0)", "dark": "rgb(240, 80, 80)", "path": "/apple-red-900" },
           { "name": "Apple Red-950", "light": "rgb(80, 0, 0)", "dark": "rgb(255, 100, 100)", "path": "/apple-red-950" }
         ],
-        "Green": [
+        "Apple Green": [
           { "name": "Apple Green-50", "light": "rgb(240, 255, 240)", "dark": "rgb(0, 40, 0)", "path": "/apple-green-50" },
           { "name": "Apple Green-100", "light": "rgb(210, 255, 210)", "dark": "rgb(0, 60, 0)", "path": "/apple-green-100" },
           { "name": "Apple Green-200", "light": "rgb(170, 255, 170)", "dark": "rgb(0, 80, 0)", "path": "/apple-green-200" },
@@ -289,7 +289,7 @@
           { "name": "Apple Green-900", "light": "rgb(0, 100, 0)", "dark": "rgb(80, 220, 80)", "path": "/apple-green-900" },
           { "name": "Apple Green-950", "light": "rgb(0, 60, 0)", "dark": "rgb(100, 240, 100)", "path": "/apple-green-950" }
         ],
-        "Orange": [
+        "Apple Orange": [
           { "name": "Apple Orange-50", "light": "rgb(255, 245, 235)", "dark": "rgb(50, 25, 0)", "path": "/apple-orange-50" },
           { "name": "Apple Orange-100", "light": "rgb(255, 225, 200)", "dark": "rgb(70, 35, 0)", "path": "/apple-orange-100" },
           { "name": "Apple Orange-200", "light": "rgb(255, 200, 160)", "dark": "rgb(90, 45, 0)", "path": "/apple-orange-200" },
@@ -302,7 +302,7 @@
           { "name": "Apple Orange-900", "light": "rgb(150, 30, 0)", "dark": "rgb(230, 115, 40)", "path": "/apple-orange-900" },
           { "name": "Apple Orange-950", "light": "rgb(90, 15, 0)", "dark": "rgb(250, 130, 60)", "path": "/apple-orange-950" }
         ],
-        "Purple": [
+        "Apple Purple": [
           { "name": "Apple Purple-50", "light": "rgb(250, 245, 255)", "dark": "rgb(30, 10, 50)", "path": "/apple-purple-50" },
           { "name": "Apple Purple-100", "light": "rgb(243, 232, 255)", "dark": "rgb(40, 15, 70)", "path": "/apple-purple-100" },
           { "name": "Apple Purple-200", "light": "rgb(233, 213, 255)", "dark": "rgb(50, 20, 90)", "path": "/apple-purple-200" },
@@ -315,7 +315,7 @@
           { "name": "Apple Purple-900", "light": "rgb(88, 28, 138)", "dark": "rgb(170, 140, 240)", "path": "/apple-purple-900" },
           { "name": "Apple Purple-950", "light": "rgb(50, 15, 80)", "dark": "rgb(190, 160, 255)", "path": "/apple-purple-950" }
         ],
-        "Yellow": [
+        "Apple Yellow": [
           { "name": "Apple Yellow-50", "light": "rgb(255, 253, 231)", "dark": "rgb(60, 56, 0)", "path": "/apple-yellow-50" },
           { "name": "Apple Yellow-100", "light": "rgb(255, 249, 196)", "dark": "rgb(70, 65, 5)", "path": "/apple-yellow-100" },
           { "name": "Apple Yellow-200", "light": "rgb(255, 245, 157)", "dark": "rgb(85, 80, 10)", "path": "/apple-yellow-200" },
@@ -328,7 +328,7 @@
           { "name": "Apple Yellow-900", "light": "rgb(245, 127, 23)", "dark": "rgb(230, 200, 50)", "path": "/apple-yellow-900" },
           { "name": "Apple Yellow-950", "light": "rgb(190, 90, 0)", "dark": "rgb(250, 220, 80)", "path": "/apple-yellow-950" }
         ],
-        "Lime": [
+        "Apple Lime": [
           { "name": "Apple Lime-50", "light": "rgb(247, 254, 231)", "dark": "rgb(50, 60, 15)", "path": "/apple-lime-50" },
           { "name": "Apple Lime-100", "light": "rgb(236, 252, 202)", "dark": "rgb(60, 70, 20)", "path": "/apple-lime-100" },
           { "name": "Apple Lime-200", "light": "rgb(216, 249, 153)", "dark": "rgb(75, 90, 25)", "path": "/apple-lime-200" },
@@ -341,7 +341,7 @@
           { "name": "Apple Lime-900", "light": "rgb(53, 83, 14)", "dark": "rgb(240, 255, 20)", "path": "/apple-lime-900" },
           { "name": "Apple Lime-950", "light": "rgb(25, 46, 3)", "dark": "rgb(255, 255, 40)", "path": "/apple-lime-950" }
         ],
-        "Indigo": [
+        "Apple Indigo": [
           { "name": "Apple Indigo-50", "light": "rgb(238, 242, 255)", "dark": "rgb(10, 10, 40)", "path": "/apple-indigo-50" },
           { "name": "Apple Indigo-100", "light": "rgb(224, 231, 255)", "dark": "rgb(15, 15, 60)", "path": "/apple-indigo-100" },
           { "name": "Apple Indigo-200", "light": "rgb(199, 210, 254)", "dark": "rgb(20, 20, 80)", "path": "/apple-indigo-200" },
@@ -354,7 +354,7 @@
           { "name": "Apple Indigo-900", "light": "rgb(49, 46, 129)", "dark": "rgb(150, 150, 240)", "path": "/apple-indigo-900" },
           { "name": "Apple Indigo-950", "light": "rgb(30, 30, 70)", "dark": "rgb(180, 180, 255)", "path": "/apple-indigo-950" }
         ],
-        "Pink": [
+        "Apple Pink": [
           { "name": "Apple Pink-50", "light": "rgb(255, 241, 249)", "dark": "rgb(40, 10, 30)", "path": "/apple-pink-50" },
           { "name": "Apple Pink-100", "light": "rgb(255, 225, 242)", "dark": "rgb(50, 15, 40)", "path": "/apple-pink-100" },
           { "name": "Apple Pink-200", "light": "rgb(255, 199, 233)", "dark": "rgb(60, 20, 50)", "path": "/apple-pink-200" },
@@ -367,7 +367,7 @@
           { "name": "Apple Pink-900", "light": "rgb(131, 24, 67)", "dark": "rgb(190, 110, 190)", "path": "/apple-pink-900" },
           { "name": "Apple Pink-950", "light": "rgb(76, 5, 37)", "dark": "rgb(210, 140, 210)", "path": "/apple-pink-950" }
         ],
-        "Brown": [
+        "Apple Brown": [
           { "name": "Apple Brown-50", "light": "rgb(250, 245, 240)", "dark": "rgb(40, 25, 15)", "path": "/apple-brown-50" },
           { "name": "Apple Brown-100", "light": "rgb(240, 225, 210)", "dark": "rgb(60, 35, 20)", "path": "/apple-brown-100" },
           { "name": "Apple Brown-200", "light": "rgb(220, 195, 170)", "dark": "rgb(80, 45, 25)", "path": "/apple-brown-200" },
@@ -380,7 +380,7 @@
           { "name": "Apple Brown-900", "light": "rgb(80, 30, 5)", "dark": "rgb(220, 115, 60)", "path": "/apple-brown-900" },
           { "name": "Apple Brown-950", "light": "rgb(50, 15, 0)", "dark": "rgb(240, 130, 70)", "path": "/apple-brown-950" }
         ],
-        "Teal": [
+        "Apple Teal": [
           { "name": "Apple Teal-50", "light": "rgb(240, 253, 250)", "dark": "rgb(10, 40, 45)", "path": "/apple-teal-50" },
           { "name": "Apple Teal-100", "light": "rgb(204, 251, 241)", "dark": "rgb(15, 50, 55)", "path": "/apple-teal-100" },
           { "name": "Apple Teal-200", "light": "rgb(153, 246, 228)", "dark": "rgb(20, 70, 70)", "path": "/apple-teal-200" },
@@ -393,7 +393,7 @@
           { "name": "Apple Teal-900", "light": "rgb(15, 77, 68)", "dark": "rgb(150, 230, 210)", "path": "/apple-teal-900" },
           { "name": "Apple Teal-950", "light": "rgb(7, 45, 40)", "dark": "rgb(180, 255, 230)", "path": "/apple-teal-950" }
         ],
-        "Gray": [
+        "Apple Gray": [
           { "name": "Apple Gray-50", "light": "rgb(250, 250, 250)", "dark": "rgb(15, 15, 15)", "path": "/apple-gray-50" },
           { "name": "Apple Gray-100", "light": "rgb(240, 240, 240)", "dark": "rgb(30, 30, 30)", "path": "/apple-gray-100" },
           { "name": "Apple Gray-200", "light": "rgb(220, 220, 220)", "dark": "rgb(50, 50, 50)", "path": "/apple-gray-200" },
@@ -412,7 +412,7 @@
       "name": "Color Palette 04 (Material)",
       "colors": "palette4",
       "groups": {
-        "Red": [
+        "Material Red": [
           { "name": "Material Red-50", "light": "rgb(255, 235, 238)", "dark": "rgb(62, 0, 8)", "path": "/material-red-50" },
           { "name": "Material Red-100", "light": "rgb(255, 205, 210)", "dark": "rgb(82, 0, 10)", "path": "/material-red-100" },
           { "name": "Material Red-200", "light": "rgb(239, 154, 154)", "dark": "rgb(102, 0, 12)", "path": "/material-red-200" },
@@ -425,7 +425,7 @@
           { "name": "Material Red-900", "light": "rgb(183, 28, 28)", "dark": "rgb(250, 60, 70)", "path": "/material-red-900" },
           { "name": "Material Red-950", "light": "rgb(127, 0, 0)", "dark": "rgb(255, 90, 100)", "path": "/material-red-950" }
         ],
-        "Pink": [
+        "Material Pink": [
           { "name": "Material Pink-50", "light": "rgb(252, 228, 236)", "dark": "rgb(70, 0, 25)", "path": "/material-pink-50" },
           { "name": "Material Pink-100", "light": "rgb(248, 187, 208)", "dark": "rgb(90, 0, 40)", "path": "/material-pink-100" },
           { "name": "Material Pink-200", "light": "rgb(244, 143, 177)", "dark": "rgb(110, 0, 55)", "path": "/material-pink-200" },
@@ -438,7 +438,7 @@
           { "name": "Material Pink-900", "light": "rgb(153, 18, 78)", "dark": "rgb(255, 60, 160)", "path": "/material-pink-900" },
           { "name": "Material Pink-950", "light": "rgb(83, 11, 42)", "dark": "rgb(255, 100, 180)", "path": "/material-pink-950" }
         ],
-        "Purple": [
+        "Material Purple": [
           { "name": "Material Purple-50", "light": "rgb(243, 229, 245)", "dark": "rgb(42, 0, 40)", "path": "/material-purple-50" },
           { "name": "Material Purple-100", "light": "rgb(225, 190, 231)", "dark": "rgb(60, 0, 55)", "path": "/material-purple-100" },
           { "name": "Material Purple-200", "light": "rgb(206, 147, 216)", "dark": "rgb(80, 0, 70)", "path": "/material-purple-200" },
@@ -451,7 +451,7 @@
           { "name": "Material Purple-900", "light": "rgb(74, 20, 140)", "dark": "rgb(220, 0, 210)", "path": "/material-purple-900" },
           { "name": "Material Purple-950", "light": "rgb(49, 10, 110)", "dark": "rgb(240, 0, 230)", "path": "/material-purple-950" }
         ],
-        "Deep Purple": [
+        "Material Deep Purple": [
           { "name": "Material Deep Purple-50", "light": "rgb(237, 231, 246)", "dark": "rgb(35, 0, 50)", "path": "/material-deep-purple-50" },
           { "name": "Material Deep Purple-100", "light": "rgb(209, 196, 233)", "dark": "rgb(50, 0, 70)", "path": "/material-deep-purple-100" },
           { "name": "Material Deep Purple-200", "light": "rgb(179, 157, 219)", "dark": "rgb(70, 0, 90)", "path": "/material-deep-purple-200" },
@@ -464,7 +464,7 @@
           { "name": "Material Deep Purple-900", "light": "rgb(49, 27, 146)", "dark": "rgb(210, 0, 230)", "path": "/material-deep-purple-900" },
           { "name": "Material Deep Purple-950", "light": "rgb(30, 13, 107)", "dark": "rgb(230, 20, 250)", "path": "/material-deep-purple-950" }
         ],
-        "Indigo": [
+        "Material Indigo": [
           { "name": "Material Indigo-50", "light": "rgb(232, 234, 246)", "dark": "rgb(25, 25, 50)", "path": "/material-indigo-50" },
           { "name": "Material Indigo-100", "light": "rgb(197, 202, 233)", "dark": "rgb(40, 40, 70)", "path": "/material-indigo-100" },
           { "name": "Material Indigo-200", "light": "rgb(159, 168, 218)", "dark": "rgb(55, 55, 90)", "path": "/material-indigo-200" },
@@ -477,7 +477,7 @@
           { "name": "Material Indigo-900", "light": "rgb(26, 35, 126)", "dark": "rgb(195, 195, 230)", "path": "/material-indigo-900" },
           { "name": "Material Indigo-950", "light": "rgb(13, 18, 80)", "dark": "rgb(215, 215, 250)", "path": "/material-indigo-950" }
         ],
-        "Blue": [
+        "Material Blue": [
           { "name": "Material Blue-50", "light": "rgb(227, 242, 253)", "dark": "rgb(0, 28, 41)", "path": "/material-blue-50" },
           { "name": "Material Blue-100", "light": "rgb(187, 222, 251)", "dark": "rgb(0, 40, 60)", "path": "/material-blue-100" },
           { "name": "Material Blue-200", "light": "rgb(144, 202, 249)", "dark": "rgb(0, 55, 82)", "path": "/material-blue-200" },
@@ -490,7 +490,7 @@
           { "name": "Material Blue-900", "light": "rgb(13, 71, 161)", "dark": "rgb(30, 180, 230)", "path": "/material-blue-900" },
           { "name": "Material Blue-950", "light": "rgb(8, 45, 102)", "dark": "rgb(50, 200, 250)", "path": "/material-blue-950" }
         ],
-        "Green": [
+        "Material Green": [
           { "name": "Material Green-50", "light": "rgb(232, 245, 233)", "dark": "rgb(4, 41, 5)", "path": "/material-green-50" },
           { "name": "Material Green-100", "light": "rgb(200, 230, 201)", "dark": "rgb(5, 50, 6)", "path": "/material-green-100" },
           { "name": "Material Green-200", "light": "rgb(165, 214, 167)", "dark": "rgb(8, 65, 10)", "path": "/material-green-200" },
@@ -503,7 +503,7 @@
           { "name": "Material Green-900", "light": "rgb(27, 94, 32)", "dark": "rgb(40, 200, 50)", "path": "/material-green-900" },
           { "name": "Material Green-950", "light": "rgb(13, 50, 15)", "dark": "rgb(50, 220, 60)", "path": "/material-green-950" }
         ],
-        "Light Green": [
+        "Material Light Green": [
           { "name": "Material Light Green-50", "light": "rgb(241, 248, 233)", "dark": "rgb(40, 50, 10)", "path": "/material-light-green-50" },
           { "name": "Material Light Green-100", "light": "rgb(220, 237, 200)", "dark": "rgb(55, 65, 15)", "path": "/material-light-green-100" },
           { "name": "Material Light Green-200", "light": "rgb(197, 225, 165)", "dark": "rgb(70, 80, 20)", "path": "/material-light-green-200" },
@@ -516,7 +516,7 @@
           { "name": "Material Light Green-900", "light": "rgb(51, 105, 30)", "dark": "rgb(180, 210, 60)", "path": "/material-light-green-900" },
           { "name": "Material Light Green-950", "light": "rgb(30, 60, 15)", "dark": "rgb(200, 230, 70)", "path": "/material-light-green-950" }
         ],
-        "Amber": [
+        "Material Amber": [
           { "name": "Material Amber-50", "light": "rgb(255, 248, 225)", "dark": "rgb(60, 50, 0)", "path": "/material-amber-50" },
           { "name": "Material Amber-100", "light": "rgb(255, 236, 179)", "dark": "rgb(75, 60, 5)", "path": "/material-amber-100" },
           { "name": "Material Amber-200", "light": "rgb(255, 224, 130)", "dark": "rgb(90, 70, 10)", "path": "/material-amber-200" },
@@ -529,7 +529,7 @@
           { "name": "Material Amber-900", "light": "rgb(255, 111, 0)", "dark": "rgb(230, 150, 50)", "path": "/material-amber-900" },
           { "name": "Material Amber-950", "light": "rgb(191, 85, 0)", "dark": "rgb(250, 180, 70)", "path": "/material-amber-950" }
         ],
-        "Gray": [
+        "Material Gray": [
           { "name": "Material Gray-0", "light": "rgb(255, 255, 255)", "dark": "rgb(0, 0, 0)", "path": "/material-gray-0" },
           { "name": "Material Gray-50", "light": "rgb(250, 250, 250)", "dark": "rgb(25, 25, 25)", "path": "/material-gray-50" },
           { "name": "Material Gray-100", "light": "rgb(245, 245, 245)", "dark": "rgb(40, 40, 40)", "path": "/material-gray-100" },
