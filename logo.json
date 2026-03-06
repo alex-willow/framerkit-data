@@ -25,7 +25,7 @@
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Logo%20Section/Light/Wireframe/Logo%20Section%2002%20Wireframe.png",
       "url": "https://framer.com/m/Logo-Section-02-Wireframe-iz8T.js",
-            "previewUrl": "https://framerkit.site/preview/logo-section/logo-section-02-wireframe"
+      "previewUrl": "https://framerkit.site/preview/logo-section/logo-section-02-wireframe"
     }
   },
   {
@@ -37,7 +37,8 @@
     "dragType": "detachedComponentLayers",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Logo%20Section/Light/Wireframe/Logo%20Section%2003%20Wireframe.png",
-      "url": "https://framer.com/m/Logo-Section-03-Wireframe-uWwd.js"
+      "url": "https://framer.com/m/Logo-Section-03-Wireframe-uWwd.js",
+      "previewUrl": "https://framerkit.site/preview/logo-section/logo-section-03-wireframe"
     }
   },
   {
