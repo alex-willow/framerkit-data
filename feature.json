@@ -7,9 +7,11 @@
     "url": "https://framer.com/m/Feature-Section-01-re2D.js",
     "type": "free",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-01",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2001%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-01-Wireframe-GUvJ.js"
+      "url": "https://framer.com/m/Feature-Section-01-Wireframe-GUvJ.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-01-wireframe"
     }
   },
   {
@@ -19,9 +21,11 @@
     "url": "https://framer.com/m/Feature-Section-02-ABjv.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-02",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2002%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-02-Wireframe-4LLo.js"
+      "url": "https://framer.com/m/Feature-Section-02-Wireframe-4LLo.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-02-wireframe"
     }
   },
   {
@@ -31,9 +35,11 @@
     "url": "https://framer.com/m/Feature-Section-03-wZKS.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-03",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2003%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-03-Wireframe-d5Sf.js"
+      "url": "https://framer.com/m/Feature-Section-03-Wireframe-d5Sf.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-03-wireframe"
     }
   },
   {
@@ -43,9 +49,11 @@
     "url": "https://framer.com/m/Feature-Section-04-64ed.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-04",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2004%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-04-Wireframe-Deg1.js"
+      "url": "https://framer.com/m/Feature-Section-04-Wireframe-Deg1.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-04-wireframe"
     }
   },
   {
@@ -55,9 +63,11 @@
     "url": "https://framer.com/m/Feature-Section-05-wjtg.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-05",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2005%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-05-Wireframe-872t.js"
+      "url": "https://framer.com/m/Feature-Section-05-Wireframe-872t.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-05-wireframe"
     }
   },
   {
@@ -67,9 +77,11 @@
     "url": "https://framer.com/m/Feature-Section-06-xOaq.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-06",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2006%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-06-Wireframe-EcZj.js"
+      "url": "https://framer.com/m/Feature-Section-06-Wireframe-EcZj.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-06-wireframe"
     }
   },
   {
@@ -79,9 +91,11 @@
     "url": "https://framer.com/m/Feature-Section-07-ZLHp.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-07",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2007%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-07-Wireframe-MOrE.js"
+      "url": "https://framer.com/m/Feature-Section-07-Wireframe-MOrE.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-07-wireframe"
     }
   },
   {
@@ -91,9 +105,11 @@
     "url": "https://framer.com/m/Feature-Section-08-vlVy.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-08",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2008%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-08-Wireframe-8QPd.js"
+      "url": "https://framer.com/m/Feature-Section-08-Wireframe-8QPd.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-08-wireframe"
     }
   },
   {
@@ -103,9 +119,11 @@
     "url": "https://framer.com/m/Feature-Section-09-9Qc0.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-09",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2009%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-09-Wireframe-EpsD.js"
+      "url": "https://framer.com/m/Feature-Section-09-Wireframe-EpsD.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-09-wireframe"
     }
   },
   {
@@ -115,9 +133,11 @@
     "url": "https://framer.com/m/Feature-Section-10-Xwxe.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-10",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2010%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-10-Wireframe-zFqW.js"
+      "url": "https://framer.com/m/Feature-Section-10-Wireframe-zFqW.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-10-wireframe"
     }
   },
   {
@@ -127,9 +147,11 @@
     "url": "https://framer.com/m/Feature-Section-11-AHGr.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-11",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2011%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-11-Wireframe-4KD3.js"
+      "url": "https://framer.com/m/Feature-Section-11-Wireframe-4KD3.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-11-wireframe"
     }
   },
   {
@@ -139,9 +161,11 @@
     "url": "https://framer.com/m/Feature-Section-12-bsQC.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-12",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2012%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-12-Wireframe-Ic64.js"
+      "url": "https://framer.com/m/Feature-Section-12-Wireframe-Ic64.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-12-wireframe"
     }
   },
   {
@@ -151,9 +175,11 @@
     "url": "https://framer.com/m/Feature-Section-13-O5Hy.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-13",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2013%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-13-Wireframe-QgEm.js"
+      "url": "https://framer.com/m/Feature-Section-13-Wireframe-QgEm.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-13-wireframe"
     }
   },
   {
@@ -163,9 +189,11 @@
     "url": "https://framer.com/m/Feature-Section-14-kEHL.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-14",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2014%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-14-Wireframe-aSK8.js"
+      "url": "https://framer.com/m/Feature-Section-14-Wireframe-aSK8.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-14-wireframe"
     }
   },
   {
@@ -175,9 +203,11 @@
     "url": "https://framer.com/m/Feature-Section-15-2sv2.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-15",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2015%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-15-Wireframe-o2Oc.js"
+      "url": "https://framer.com/m/Feature-Section-15-Wireframe-o2Oc.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-15-wireframe"
     }
   },
   {
@@ -187,9 +217,11 @@
     "url": "https://framer.com/m/Feature-Section-16-FxQ5.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-16",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2016%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-16-Wireframe-eULH.js"
+      "url": "https://framer.com/m/Feature-Section-16-Wireframe-eULH.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-16-wireframe"
     }
   },
   {
@@ -199,9 +231,11 @@
     "url": "https://framer.com/m/Feature-Section-17-0mDw.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-17",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2017%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-17-Wireframe-GuL2.js"
+      "url": "https://framer.com/m/Feature-Section-17-Wireframe-GuL2.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-17-wireframe"
     }
   },
   {
@@ -211,9 +245,11 @@
     "url": "https://framer.com/m/Feature-Section-18-JDwt.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-18",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2018%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-18-Wireframe-tIYw.js"
+      "url": "https://framer.com/m/Feature-Section-18-Wireframe-tIYw.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-18-wireframe"
     }
   },
   {
@@ -223,9 +259,11 @@
     "url": "https://framer.com/m/Feature-Section-19-TyII.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-19",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2019%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-19-Wireframe-IMcm.js"
+      "url": "https://framer.com/m/Feature-Section-19-Wireframe-IMcm.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-19-wireframe"
     }
   },
   {
@@ -235,9 +273,11 @@
     "url": "https://framer.com/m/Feature-Section-20-vkqC.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-20",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2020%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-20-Wireframe-adTt.js"
+      "url": "https://framer.com/m/Feature-Section-20-Wireframe-adTt.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-20-wireframe"
     }
   },
   {
@@ -247,9 +287,11 @@
     "url": "https://framer.com/m/Feature-Section-21-71le.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-21",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2021%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-21-Wireframe-oIYT.js"
+      "url": "https://framer.com/m/Feature-Section-21-Wireframe-oIYT.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-21-wireframe"
     }
   },
   {
@@ -259,9 +301,11 @@
     "url": "https://framer.com/m/Feature-Section-22-fDs0.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-22",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2022%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-22-Wireframe-PxBH.js"
+      "url": "https://framer.com/m/Feature-Section-22-Wireframe-PxBH.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-22-wireframe"
     }
   },
   {
@@ -271,9 +315,11 @@
     "url": "https://framer.com/m/Feature-Section-23-iPPc.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-23",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2023%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-23-Wireframe-dEb4.js"
+      "url": "https://framer.com/m/Feature-Section-23-Wireframe-dEb4.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-23-wireframe"
     }
   },
   {
@@ -283,9 +329,11 @@
     "url": "https://framer.com/m/Feature-Section-24-myLq.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-24",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2024%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-24-Wireframe-K8yK.js"
+      "url": "https://framer.com/m/Feature-Section-24-Wireframe-K8yK.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-24-wireframe"
     }
   },
   {
@@ -295,9 +343,11 @@
     "url": "https://framer.com/m/Feature-Section-25-spCY.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-25",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2025%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-25-Wireframe-H6Qw.js"
+      "url": "https://framer.com/m/Feature-Section-25-Wireframe-H6Qw.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-25-wireframe"
     }
   },
   {
@@ -307,9 +357,11 @@
     "url": "https://framer.com/m/Feature-Section-26-XFgK.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-26",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2026%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-26-Wireframe-tDsu.js"
+      "url": "https://framer.com/m/Feature-Section-26-Wireframe-tDsu.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-26-wireframe"
     }
   },
   {
@@ -319,9 +371,11 @@
     "url": "https://framer.com/m/Feature-Section-27-Uf3B.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-27",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2027%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-27-Wireframe-2jmD.js"
+      "url": "https://framer.com/m/Feature-Section-27-Wireframe-2jmD.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-27-wireframe"
     }
   },
   {
@@ -331,9 +385,11 @@
     "url": "https://framer.com/m/Feature-Section-28-2lDh.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-28",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2028%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-28-Wireframe-Z3N2.js"
+      "url": "https://framer.com/m/Feature-Section-28-Wireframe-Z3N2.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-28-wireframe"
     }
   },
   {
@@ -343,9 +399,11 @@
     "url": "https://framer.com/m/Feature-Section-29-oDz0.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-29",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2029%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-29-Wireframe-gplC.js"
+      "url": "https://framer.com/m/Feature-Section-29-Wireframe-gplC.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-29-wireframe"
     }
   },
   {
@@ -355,9 +413,11 @@
     "url": "https://framer.com/m/Feature-Section-30-U3Lf.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-30",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2030%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-30-Wireframe-73vk.js"
+      "url": "https://framer.com/m/Feature-Section-30-Wireframe-73vk.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-30-wireframe"
     }
   },
   {
@@ -367,9 +427,11 @@
     "url": "https://framer.com/m/Feature-Section-31-Hcf7.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-31",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2031%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-31-Wireframe-JcNw.js"
+      "url": "https://framer.com/m/Feature-Section-31-Wireframe-JcNw.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-31-wireframe"
     }
   },
   {
@@ -379,9 +441,11 @@
     "url": "https://framer.com/m/Feature-Section-32-1Oyy.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-32",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2032%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-32-Wireframe-XCsI.js"
+      "url": "https://framer.com/m/Feature-Section-32-Wireframe-XCsI.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-32-wireframe"
     }
   },
   {
@@ -391,9 +455,11 @@
     "url": "https://framer.com/m/Feature-Section-33-V01Z.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-33",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2033%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-33-Wireframe-yEhJ.js"
+      "url": "https://framer.com/m/Feature-Section-33-Wireframe-yEhJ.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-33-wireframe"
     }
   },
   {
@@ -403,9 +469,11 @@
     "url": "https://framer.com/m/Feature-Section-34-W3wQ.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-34",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2034%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-34-Wireframe-7csu.js"
+      "url": "https://framer.com/m/Feature-Section-34-Wireframe-7csu.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-34-wireframe"
     }
   },
   {
@@ -415,9 +483,11 @@
     "url": "https://framer.com/m/Feature-Section-35-A1Su.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-35",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2035%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-35-Wireframe-AILR.js"
+      "url": "https://framer.com/m/Feature-Section-35-Wireframe-AILR.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-35-wireframe"
     }
   },
   {
@@ -427,9 +497,11 @@
     "url": "https://framer.com/m/Feature-Section-36-MdPH.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-36",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2036%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-36-Wireframe-tNU9.js"
+      "url": "https://framer.com/m/Feature-Section-36-Wireframe-tNU9.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-36-wireframe"
     }
   },
   {
@@ -439,9 +511,11 @@
     "url": "https://framer.com/m/Feature-Section-37-kCSI.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-37",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2037%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-37-Wireframe-Y6Cf.js"
+      "url": "https://framer.com/m/Feature-Section-37-Wireframe-Y6Cf.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-37-wireframe"
     }
   },
   {
@@ -451,9 +525,11 @@
     "url": "https://framer.com/m/Feature-Section-38-dU8r.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-38",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2038%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-38-Wireframe-jeFR.js"
+      "url": "https://framer.com/m/Feature-Section-38-Wireframe-jeFR.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-38-wireframe"
     }
   },
   {
@@ -463,9 +539,11 @@
     "url": "https://framer.com/m/Feature-Section-39-sBov.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-39",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2039%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-39-Wireframe-sEPB.js"
+      "url": "https://framer.com/m/Feature-Section-39-Wireframe-sEPB.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-39-wireframe"
     }
   },
   {
@@ -475,9 +553,11 @@
     "url": "https://framer.com/m/Feature-Section-40-YVV1.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-40",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2040%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-40-Wireframe-sDRo.js"
+      "url": "https://framer.com/m/Feature-Section-40-Wireframe-sDRo.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-40-wireframe"
     }
   },
   {
@@ -487,9 +567,11 @@
     "url": "https://framer.com/m/Feature-Section-41-g9VH.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-41",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2041%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-41-Wireframe-uhiK.js"
+      "url": "https://framer.com/m/Feature-Section-41-Wireframe-uhiK.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-41-wireframe"
     }
   },
   {
@@ -499,9 +581,11 @@
     "url": "https://framer.com/m/Feature-Section-42-fwiy.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-42",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2042%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-42-Wireframe-fTq2.js"
+      "url": "https://framer.com/m/Feature-Section-42-Wireframe-fTq2.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-42-wireframe"
     }
   },
   {
@@ -511,9 +595,11 @@
     "url": "https://framer.com/m/Feature-Section-43-16re.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-43",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2043%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-43-Wireframe-6XQq.js"
+      "url": "https://framer.com/m/Feature-Section-43-Wireframe-6XQq.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-43-wireframe"
     }
   },
   {
@@ -523,9 +609,11 @@
     "url": "https://framer.com/m/Feature-Section-44-4FxT.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-44",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2044%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-44-Wireframe-kCmL.js"
+      "url": "https://framer.com/m/Feature-Section-44-Wireframe-kCmL.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-44-wireframe"
     }
   },
   {
@@ -535,9 +623,11 @@
     "url": "https://framer.com/m/Feature-Section-45-PVBh.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-45",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2045%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-45-Wireframe-5XAg.js"
+      "url": "https://framer.com/m/Feature-Section-45-Wireframe-5XAg.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-45-wireframe"
     }
   },
   {
@@ -547,9 +637,11 @@
     "url": "https://framer.com/m/Feature-Section-46-RL9p.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-46",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2046%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-46-Wireframe-D1oC.js"
+      "url": "https://framer.com/m/Feature-Section-46-Wireframe-D1oC.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-46-wireframe"
     }
   },
   {
@@ -559,9 +651,11 @@
     "url": "https://framer.com/m/Feature-Section-47-3j2H.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-47",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2047%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-47-Wireframe-vRrY.js"
+      "url": "https://framer.com/m/Feature-Section-47-Wireframe-vRrY.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-47-wireframe"
     }
   },
   {
@@ -571,9 +665,11 @@
     "url": "https://framer.com/m/Feature-Section-48-lMbJ.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-48",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2048%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-48-Wireframe-qYGU.js"
+      "url": "https://framer.com/m/Feature-Section-48-Wireframe-qYGU.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-48-wireframe"
     }
   },
   {
@@ -583,9 +679,11 @@
     "url": "https://framer.com/m/Feature-Section-49-kua9.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-49",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2049%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-49-Wireframe-6Fsx.js"
+      "url": "https://framer.com/m/Feature-Section-49-Wireframe-6Fsx.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-49-wireframe"
     }
   },
   {
@@ -595,9 +693,11 @@
     "url": "https://framer.com/m/Feature-Section-50-qCXz.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-50",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2050%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-50-Wireframe-J0JM.js"
+      "url": "https://framer.com/m/Feature-Section-50-Wireframe-J0JM.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-50-wireframe"
     }
   },
   {
@@ -607,9 +707,11 @@
     "url": "https://framer.com/m/Feature-Section-51-IsEr.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-51",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2051%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-51-Wireframe-mMnC.js"
+      "url": "https://framer.com/m/Feature-Section-51-Wireframe-mMnC.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-51-wireframe"
     }
   },
   {
@@ -619,9 +721,11 @@
     "url": "https://framer.com/m/Feature-Section-52-jyyI.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-52",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2052%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-52-Wireframe-5hZA.js"
+      "url": "https://framer.com/m/Feature-Section-52-Wireframe-5hZA.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-52-wireframe"
     }
   },
   {
@@ -631,9 +735,11 @@
     "url": "https://framer.com/m/Feature-Section-53-is6q.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-53",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2053%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-53-Wireframe-mv7N.js"
+      "url": "https://framer.com/m/Feature-Section-53-Wireframe-mv7N.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-53-wireframe"
     }
   },
   {
@@ -643,9 +749,11 @@
     "url": "https://framer.com/m/Feature-Section-54-nljC.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-54",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2054%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-54-Wireframe-5Li7.js"
+      "url": "https://framer.com/m/Feature-Section-54-Wireframe-5Li7.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-54-wireframe"
     }
   },
   {
@@ -655,9 +763,11 @@
     "url": "https://framer.com/m/Feature-Section-55-jgks.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-55",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2055%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-55-Wireframe-1lD1.js"
+      "url": "https://framer.com/m/Feature-Section-55-Wireframe-1lD1.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-55-wireframe"
     }
   },
   {
@@ -667,9 +777,11 @@
     "url": "https://framer.com/m/Feature-Section-56-GZZj.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-56",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Feature%20Section/Light/Wireframe/Feature%20Section%2056%20Wireframe.png",
-      "url": "https://framer.com/m/Feature-Section-56-Wireframe-AfDc.js"
+      "url": "https://framer.com/m/Feature-Section-56-Wireframe-AfDc.js",
+      "previewUrl": "https://framerkit.site/preview/feature-section/feature-section-56-wireframe"
     }
   },
   {
