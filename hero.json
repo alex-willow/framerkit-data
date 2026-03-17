@@ -563,16 +563,18 @@
     }
     },
 
-   {
+  {
     "key": "hero-section-01-dark",
     "title": "Hero Section 01",
     "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Design/Hero-Section-01-Dark.gif",
     "url": "https://framer.com/m/Hero-Section-01-Dark-UQmi.js",
     "type": "free",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-01-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2001%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-01-Dark-Wireframe-8hod.js"
+      "url": "https://framer.com/m/Hero-Section-01-Dark-Wireframe-8hod.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-01-dark-wireframe"
     }
   },
   {
@@ -582,9 +584,11 @@
     "url": "https://framer.com/m/Hero-Section-02-Dark-gi2X.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-02-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2002%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-02-Dark-Wireframe-KSgW.js"
+      "url": "https://framer.com/m/Hero-Section-02-Dark-Wireframe-KSgW.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-02-dark-wireframe"
     }
   },
   {
@@ -594,9 +598,11 @@
     "url": "https://framer.com/m/Hero-Section-03-Dark-2CZC.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-03-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2003%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-03-Dark-Wireframe-9p52.js"
+      "url": "https://framer.com/m/Hero-Section-03-Dark-Wireframe-9p52.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-03-dark-wireframe"
     }
   },
   {
@@ -606,9 +612,11 @@
     "url": "https://framer.com/m/Hero-Section-04-Dark-YMhD.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-04-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2004%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-04-Dark-Wireframe-yBjS.js"
+      "url": "https://framer.com/m/Hero-Section-04-Dark-Wireframe-yBjS.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-04-dark-wireframe"
     }
   },
   {
@@ -618,9 +626,11 @@
     "url": "https://framer.com/m/Hero-Section-05-Dark-gI6t.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-05-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2005%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-05-Dark-Wireframe-0o28.js"
+      "url": "https://framer.com/m/Hero-Section-05-Dark-Wireframe-0o28.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-05-dark-wireframe"
     }
   },
   {
@@ -630,9 +640,11 @@
     "url": "https://framer.com/m/Hero-Section-06-Dark-VXmt.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-06-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2006%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-06-Dark-Wireframe-o73R.js"
+      "url": "https://framer.com/m/Hero-Section-06-Dark-Wireframe-o73R.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-06-dark-wireframe"
     }
   },
   {
@@ -642,9 +654,11 @@
     "url": "https://framer.com/m/Hero-Section-07-Dark-SsBU.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-07-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2007%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-07-Dark-Wireframe-vJpO.js"
+      "url": "https://framer.com/m/Hero-Section-07-Dark-Wireframe-vJpO.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-07-dark-wireframe"
     }
   },
   {
@@ -654,9 +668,11 @@
     "url": "https://framer.com/m/Hero-Section-08-Dark-RGP6.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-08-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2008%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-08-Dark-Wireframe-Ruq4.js"
+      "url": "https://framer.com/m/Hero-Section-08-Dark-Wireframe-Ruq4.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-08-dark-wireframe"
     }
   },
   {
@@ -666,9 +682,11 @@
     "url": "https://framer.com/m/Hero-Section-09-Dark-829m.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-09-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2009%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-09-Dark-Wireframe-oGTO.js"
+      "url": "https://framer.com/m/Hero-Section-09-Dark-Wireframe-oGTO.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-09-dark-wireframe"
     }
   },
   {
@@ -678,9 +696,11 @@
     "url": "https://framer.com/m/Hero-Section-10-Dark-4rsI.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-10-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2010%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-10-Dark-Wireframe-qnSn.js"
+      "url": "https://framer.com/m/Hero-Section-10-Dark-Wireframe-qnSn.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-10-dark-wireframe"
     }
   },
   {
@@ -690,9 +710,11 @@
     "url": "https://framer.com/m/Hero-Section-11-Dark-Ow5q.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-11-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2011%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-11-Dark-Wireframe-hjS9.js"
+      "url": "https://framer.com/m/Hero-Section-11-Dark-Wireframe-hjS9.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-11-dark-wireframe"
     }
   },
   {
@@ -702,9 +724,11 @@
     "url": "https://framer.com/m/Hero-Section-12-Dark-bbaa.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-12-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2012%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-12-Dark-Wireframe-2J66.js"
+      "url": "https://framer.com/m/Hero-Section-12-Dark-Wireframe-2J66.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-12-dark-wireframe"
     }
   },
   {
@@ -714,9 +738,11 @@
     "url": "https://framer.com/m/Hero-Section-13-Dark-zrqB.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-13-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2013%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-13-Dark-Wireframe-fZK4.js"
+      "url": "https://framer.com/m/Hero-Section-13-Dark-Wireframe-fZK4.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-13-dark-wireframe"
     }
   },
   {
@@ -726,9 +752,11 @@
     "url": "https://framer.com/m/Hero-Section-14-Dark-4P6N.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-14-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2014%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-14-Dark-Wireframe-SsZt.js"
+      "url": "https://framer.com/m/Hero-Section-14-Dark-Wireframe-SsZt.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-14-dark-wireframe"
     }
   },
   {
@@ -738,9 +766,11 @@
     "url": "https://framer.com/m/Hero-Section-15-Dark-GUci.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-15-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2015%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-15-Dark-Wireframe-WXtl.js"
+      "url": "https://framer.com/m/Hero-Section-15-Dark-Wireframe-WXtl.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-15-dark-wireframe"
     }
   },
   {
@@ -750,9 +780,11 @@
     "url": "https://framer.com/m/Hero-Section-16-Dark-iV9U.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-16-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2016%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-16-Dark-Wireframe-L114.js"
+      "url": "https://framer.com/m/Hero-Section-16-Dark-Wireframe-L114.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-16-dark-wireframe"
     }
   },
   {
@@ -762,9 +794,11 @@
     "url": "https://framer.com/m/Hero-Section-17-Dark-PZ0o.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-17-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2017%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-17-Dark-Wireframe-jIbY.js"
+      "url": "https://framer.com/m/Hero-Section-17-Dark-Wireframe-jIbY.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-17-dark-wireframe"
     }
   },
   {
@@ -774,9 +808,11 @@
     "url": "https://framer.com/m/Hero-Section-18-Dark-ZNzB.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-18-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2018%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-18-Dark-Wireframe-UKJ9.js"
+      "url": "https://framer.com/m/Hero-Section-18-Dark-Wireframe-UKJ9.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-18-dark-wireframe"
     }
   },
   {
@@ -786,9 +822,11 @@
     "url": "https://framer.com/m/Hero-Section-19-Dark-9mdn.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-19-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2019%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-19-Dark-Wireframe-GyAA.js"
+      "url": "https://framer.com/m/Hero-Section-19-Dark-Wireframe-GyAA.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-19-dark-wireframe"
     }
   },
   {
@@ -798,9 +836,11 @@
     "url": "https://framer.com/m/Hero-Section-20-Dark-MFOH.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-20-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2020%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-20-Dark-Wireframe-ZOct.js"
+      "url": "https://framer.com/m/Hero-Section-20-Dark-Wireframe-ZOct.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-20-dark-wireframe"
     }
   },
   {
@@ -810,9 +850,11 @@
     "url": "https://framer.com/m/Hero-Section-21-Dark-hRj5.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-21-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2021%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-21-Dark-Wireframe-L0ZO.js"
+      "url": "https://framer.com/m/Hero-Section-21-Dark-Wireframe-L0ZO.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-21-dark-wireframe"
     }
   },
   {
@@ -822,9 +864,11 @@
     "url": "https://framer.com/m/Hero-Section-22-Dark-xsbk.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-22-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2022%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-22-Dark-Wireframe-hb4Q.js"
+      "url": "https://framer.com/m/Hero-Section-22-Dark-Wireframe-hb4Q.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-22-dark-wireframe"
     }
   },
   {
@@ -834,9 +878,11 @@
     "url": "https://framer.com/m/Hero-Section-23-Dark-Gndj.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-23-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2023%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-23-Dark-Wireframe-lYCJ.js"
+      "url": "https://framer.com/m/Hero-Section-23-Dark-Wireframe-lYCJ.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-23-dark-wireframe"
     }
   },
   {
@@ -846,9 +892,11 @@
     "url": "https://framer.com/m/Hero-Section-24-Dark-oItk.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-24-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2024%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-24-Dark-Wireframe-3YmT.js"
+      "url": "https://framer.com/m/Hero-Section-24-Dark-Wireframe-3YmT.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-24-dark-wireframe"
     }
   },
   {
@@ -858,9 +906,11 @@
     "url": "https://framer.com/m/Hero-Section-25-Dark-dy7J.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-25-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2025%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-25-Dark-Wireframe-uFYu.js"
+      "url": "https://framer.com/m/Hero-Section-25-Dark-Wireframe-uFYu.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-25-dark-wireframe"
     }
   },
   {
@@ -870,9 +920,11 @@
     "url": "https://framer.com/m/Hero-Section-26-Dark-4wi1.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-26-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2026%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-26-Dark-Wireframe-cWsJ.js"
+      "url": "https://framer.com/m/Hero-Section-26-Dark-Wireframe-cWsJ.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-26-dark-wireframe"
     }
   },
   {
@@ -882,9 +934,11 @@
     "url": "https://framer.com/m/Hero-Section-27-Dark-Yi6l.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-27-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2027%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-27-Dark-Wireframe-gJNc.js"
+      "url": "https://framer.com/m/Hero-Section-27-Dark-Wireframe-gJNc.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-27-dark-wireframe"
     }
   },
   {
@@ -894,9 +948,11 @@
     "url": "https://framer.com/m/Hero-Section-28-Dark-ezPY.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-28-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2028%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-28-Dark-Wireframe-XDvr.js"
+      "url": "https://framer.com/m/Hero-Section-28-Dark-Wireframe-XDvr.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-28-dark-wireframe"
     }
   },
   {
@@ -906,9 +962,11 @@
     "url": "https://framer.com/m/Hero-Section-29-Dark-BIhB.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-29-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2029%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-29-Dark-Wireframe-djY1.js"
+      "url": "https://framer.com/m/Hero-Section-29-Dark-Wireframe-djY1.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-29-dark-wireframe"
     }
   },
   {
@@ -918,9 +976,11 @@
     "url": "https://framer.com/m/Hero-Section-30-Dark-C6iv.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-30-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2030%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-30-Dark-Wireframe-YGnU.js"
+      "url": "https://framer.com/m/Hero-Section-30-Dark-Wireframe-YGnU.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-30-dark-wireframe"
     }
   },
   {
@@ -930,9 +990,11 @@
     "url": "https://framer.com/m/Hero-Section-31-Dark-eNKv.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-31-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2031%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-31-Dark-Wireframe-2fHD.js"
+      "url": "https://framer.com/m/Hero-Section-31-Dark-Wireframe-2fHD.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-31-dark-wireframe"
     }
   },
   {
@@ -942,9 +1004,11 @@
     "url": "https://framer.com/m/Hero-Section-32-Dark-QQQ9.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-32-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2032%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-32-Dark-Wireframe-ZJmT.js"
+      "url": "https://framer.com/m/Hero-Section-32-Dark-Wireframe-ZJmT.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-32-dark-wireframe"
     }
   },
   {
@@ -954,9 +1018,11 @@
     "url": "https://framer.com/m/Hero-Section-33-Dark-QWxo.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-33-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2033%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-33-Dark-Wireframe-htsa.js"
+      "url": "https://framer.com/m/Hero-Section-33-Dark-Wireframe-htsa.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-33-dark-wireframe"
     }
   },
   {
@@ -966,9 +1032,11 @@
     "url": "https://framer.com/m/Hero-Section-34-Dark-T2cP.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-34-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2034%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-34-Dark-Wireframe-wtw9.js"
+      "url": "https://framer.com/m/Hero-Section-34-Dark-Wireframe-wtw9.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-34-dark-wireframe"
     }
   },
   {
@@ -978,9 +1046,11 @@
     "url": "https://framer.com/m/Hero-Section-35-Dark-5iba.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-35-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2035%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-35-Dark-Wireframe-CBf1.js"
+      "url": "https://framer.com/m/Hero-Section-35-Dark-Wireframe-CBf1.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-35-dark-wireframe"
     }
   },
   {
@@ -990,9 +1060,11 @@
     "url": "https://framer.com/m/Hero-Section-36-Dark-5yky.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-36-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2036%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-36-Dark-Wireframe-YxjD.js"
+      "url": "https://framer.com/m/Hero-Section-36-Dark-Wireframe-YxjD.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-36-dark-wireframe"
     }
   },
   {
@@ -1002,9 +1074,11 @@
     "url": "https://framer.com/m/Hero-Section-37-Dark-M1Bl.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-37-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2037%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-37-Dark-Wireframe-brVV.js"
+      "url": "https://framer.com/m/Hero-Section-37-Dark-Wireframe-brVV.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-37-dark-wireframe"
     }
   },
   {
@@ -1014,9 +1088,11 @@
     "url": "https://framer.com/m/Hero-Section-38-Dark-Ndjf.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-38-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2038%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-38-Dark-Wireframe-AI4M.js"
+      "url": "https://framer.com/m/Hero-Section-38-Dark-Wireframe-AI4M.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-38-dark-wireframe"
     }
   },
   {
@@ -1026,9 +1102,11 @@
     "url": "https://framer.com/m/Hero-Section-39-Dark-guax.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-39-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2039%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-39-Dark-Wireframe-IaaI.js"
+      "url": "https://framer.com/m/Hero-Section-39-Dark-Wireframe-IaaI.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-39-dark-wireframe"
     }
   },
   {
@@ -1038,9 +1116,11 @@
     "url": "https://framer.com/m/Hero-Section-40-Dark-YcIF.js",
     "type": "paid",
     "dragType": "detachedComponentLayers",
+    "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-40-dark",
     "wireframe": {
       "image": "https://storage.googleapis.com/framerkit/Layout%20Sections/Hero%20Section/Dark/Wireframe/Hero%20Section%2040%20Dark%20Wireframe.png",
-      "url": "https://framer.com/m/Hero-Section-40-Dark-Wireframe-mqWO.js"
+      "url": "https://framer.com/m/Hero-Section-40-Dark-Wireframe-mqWO.js",
+      "previewUrl": "https://framerkit.site/preview/hero-section/hero-section-40-dark-wireframe"
     }
   }
   ]
